@@ -42,8 +42,6 @@ WebUI.click(findTestObject('Object Repository/Page_/시작하기'))
 '파일 선택 버튼'
 WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Page_/파일 선택'), 'C:\\download\\sample_docx.docx')
 
-WebUI.takeElementScreenshotAsCheckpoint('c:\\download\\screenshot\\pdf.png', findTestObject('Object Repository/Page_/canvas__react-pdf__Page__canvas'))
-
 WebUI.delay(3)
 
 WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
