@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>단일발송</name>
+   <tag></tag>
+   <elementGuidId>58bae034-1bb7-49ab-9529-dfc5fabd48e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 방식 또는 수신인에 맞춰 서명 문서의 발송 유형을 선택해요.'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-jtgvep</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1eb091fc-6200-4e65-a183-34006c0c6260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-jtgvep</value>
+      <webElementGuid>f8139c6d-b78b-4d07-931b-bd58620bc654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9bee5663-ebc4-450c-bbc5-73b77e3d8895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-0-서명자1-이름</value>
+      <webElementGuid>f52730bf-cdf6-4778-9727-f7ffabb6390a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>단일 발송서명 문서를 한 명의 수신자에게 발송해요</value>
+      <webElementGuid>57914975-eb23-4a6d-90f9-b8d901804e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogContent-root css-1cqplmn&quot;]/div[@class=&quot;MuiBox-root css-1d97gup&quot;]/div[@class=&quot;MuiBox-root css-jtgvep&quot;]</value>
+      <webElementGuid>ddad34e3-e2bc-44ea-8cfc-66e76f1166ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 방식 또는 수신인에 맞춰 서명 문서의 발송 유형을 선택해요.'])[1]/following::div[1]</value>
+      <webElementGuid>e0fb8644-3502-4a00-8279-84ac24a86727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='발송 유형 선택'])[1]/following::div[5]</value>
+      <webElementGuid>8e6767d1-4894-4860-a037-4570c587a8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]</value>
+      <webElementGuid>c4b3179c-ce1a-418f-97bb-758ea260001b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '단일 발송서명 문서를 한 명의 수신자에게 발송해요' or . = '단일 발송서명 문서를 한 명의 수신자에게 발송해요')]</value>
+      <webElementGuid>f609615c-1d8a-4ca7-b2e1-b40ad9cd153f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-0-서명자1-이름']</value>
+      <webElementGuid>da8b4c6e-5d93-4f41-b6fa-9d6afccb51ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[8]/following::div[5]</value>
+      <webElementGuid>b347138f-47f3-4ebf-9696-6d8dc37339b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명자1.전화번호'])[1]/following::div[18]</value>
+      <webElementGuid>5d5bd540-31d7-4819-8267-241d4f6be445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필수 입력값이에요.'])[2]/preceding::div[4]</value>
+      <webElementGuid>3592e020-39df-4a0a-8f74-515a969037dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[5]/div</value>
+      <webElementGuid>14bcc96a-c8a9-4c53-bade-0aea8859d4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-0-서명자1-이름' and (text() = '필수 입력값이에요.' or . = '필수 입력값이에요.')]</value>
+      <webElementGuid>ac8a0485-803e-428e-b11b-6bc38353e672</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

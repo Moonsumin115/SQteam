@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>두번째 사용자 선택</name>
+   <tag></tag>
+   <elementGuidId>0928eecb-8481-4b66-a8ab-5575a5529e1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-13tadqh</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='create_left_panel']/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b382bc7-28f2-4255-b439-62039524c770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-13tadqh</value>
+      <webElementGuid>b7e78dfc-01eb-45fc-9a5c-2e6b24294ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>10000</value>
+      <webElementGuid>bce1dcb9-43bd-4c07-a5b6-9f92fa0fdc97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>a36de221-793d-4efa-b63d-3f48fd57d8ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;create_left_panel&quot;)/div[@class=&quot;MuiBox-root css-2nu0oh&quot;]/div[@class=&quot;styled__Wrapper-sc-dsfye4-0 fIONZu&quot;]/div[@class=&quot;MuiBox-root css-13tadqh&quot;]</value>
+      <webElementGuid>72746845-3e5b-4c9c-b8a7-7b13158248d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='create_left_panel']/div[2]/div[2]/div[3]</value>
+      <webElementGuid>ebbcfeae-ec01-42e4-8f22-66e1c9628428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[21]</value>
+      <webElementGuid>603bd926-1bda-4070-9ac9-84a1869ea331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='편집'])[1]/following::div[29]</value>
+      <webElementGuid>86f2c909-d20e-4617-b7a4-bda6991de82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/preceding::div[11]</value>
+      <webElementGuid>25c1c07b-be75-4e61-9797-93e84dc206b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[3]</value>
+      <webElementGuid>601aed48-7245-4ff6-a289-fffd3b4915e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '​' or . = '​')]</value>
+      <webElementGuid>8dd45437-8eb5-4f02-9d9d-3fc89214ffa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

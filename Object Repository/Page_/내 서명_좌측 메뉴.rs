@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>내 서명_좌측 메뉴</name>
+   <tag></tag>
+   <elementGuidId>47ded3d3-96e9-4d7f-8cbe-d39940c5aaad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#create_left_panel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='create_left_panel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8298fe9-bd11-47a8-b855-daf747392084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1yr1hnr</value>
+      <webElementGuid>9ae85549-a759-44dc-8d87-343290480d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>create_left_panel</value>
+      <webElementGuid>89f754ab-72ec-4b68-a076-550a468c80da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>서명 참여자편집​서명날짜텍스트콤보 박스체크 박스라디오 버튼내 프로필첨부 파일​서명 순서 지정하기내 서명 문서로 만들기발송 전용 문서로 만들기</value>
+      <webElementGuid>45cd511f-bcdc-42d8-b62c-df93e153a727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;create_left_panel&quot;)</value>
+      <webElementGuid>34270652-4ae2-422c-8112-0ace7c2b6b5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='create_left_panel']</value>
+      <webElementGuid>d6886f61-5fcb-4e60-875f-bcc6068c994a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[4]/div[2]</value>
+      <webElementGuid>00a89fb9-062c-4722-97d8-5bfb49d7b394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='계속'])[1]/following::div[5]</value>
+      <webElementGuid>b411cb06-6dd5-4c8e-b6e6-67d89c745e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::div[6]</value>
+      <webElementGuid>92bfd5ab-ba58-47c4-9ba0-38cd579b32f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>267c859c-b043-49b4-b739-80dc9f9720cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'create_left_panel' and (text() = '서명 참여자편집​서명날짜텍스트콤보 박스체크 박스라디오 버튼내 프로필첨부 파일​서명 순서 지정하기내 서명 문서로 만들기발송 전용 문서로 만들기' or . = '서명 참여자편집​서명날짜텍스트콤보 박스체크 박스라디오 버튼내 프로필첨부 파일​서명 순서 지정하기내 서명 문서로 만들기발송 전용 문서로 만들기')]</value>
+      <webElementGuid>a5e32625-196a-49f5-bb3d-2092a3d34085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

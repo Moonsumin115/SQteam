@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>임시 저장_임시 저장 버튼</name>
+   <tag></tag>
+   <elementGuidId>caf782b1-0161-4785-9fb2-cbcfd1a7a711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-normal.MuiButton-normalPrimary.MuiButton-sizeMedium.MuiButton-normalSizeMedium.MuiButton-root.MuiButton-normal.MuiButton-normalPrimary.MuiButton-sizeMedium.MuiButton-normalSizeMedium.css-1ym8tcp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d1782082-94ff-4cb6-ae8b-8e5a3bd6076b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium css-1ym8tcp</value>
+      <webElementGuid>5f130b39-a168-432f-a0da-fbbbbcda1b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0fdb92e7-fd7a-4869-bd7d-5f6e00919a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>86a7f724-4cb1-4444-86c3-fc4bf7dfa3e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>임시 저장</value>
+      <webElementGuid>79c465b7-e8a7-443c-b91a-9b18f8ec93d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-10o0nwd&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium css-1ym8tcp&quot;]</value>
+      <webElementGuid>50873630-03ec-4da6-91b7-2bd3bb340a77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>21c783d4-a849-429b-9f46-d228d5fde852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[10]/following::button[3]</value>
+      <webElementGuid>dd8d39b5-7cc0-4352-9154-f277f61f2e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[9]/following::button[3]</value>
+      <webElementGuid>a10195df-6cff-487b-b694-cdc0da388c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='보내기'])[1]/preceding::button[1]</value>
+      <webElementGuid>bf3a933b-78e6-43af-9aef-d113633f2c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='임시 저장']/parent::*</value>
+      <webElementGuid>23547739-519a-406d-bb8c-c01faa89e983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>580dc4fa-b506-4bdd-94ac-24b8212496b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '임시 저장' or . = '임시 저장')]</value>
+      <webElementGuid>18089a58-3324-4567-9ebb-844e627cd2e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

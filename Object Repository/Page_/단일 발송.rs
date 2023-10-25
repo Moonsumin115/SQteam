@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>단일 발송</name>
+   <tag></tag>
+   <elementGuidId>6fffb447-2c6c-4b0b-9472-59935ffb09c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-jtgvep</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 방식 또는 수신인에 맞춰 서명 문서의 발송 유형을 선택해요.'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7d03934-b99d-4f8d-9af3-873ae4e99cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-jtgvep</value>
+      <webElementGuid>5eab7d83-2ae4-4058-b66f-4f4cc73378cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>단일 발송서명 문서를 한 명의 수신자에게 발송해요</value>
+      <webElementGuid>a3cd346d-f5ba-4814-a8dd-7ad7c0bd9038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogContent-root css-1cqplmn&quot;]/div[@class=&quot;MuiBox-root css-1d97gup&quot;]/div[@class=&quot;MuiBox-root css-jtgvep&quot;]</value>
+      <webElementGuid>789a6b88-006b-4179-b555-a1e7e9365a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>10000</value>
+      <webElementGuid>30c6267e-967f-4554-ae64-0f7bc106bdf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 방식 또는 수신인에 맞춰 서명 문서의 발송 유형을 선택해요.'])[1]/following::div[1]</value>
+      <webElementGuid>737fc0ae-2729-404f-89d6-42f479fe7d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='발송 유형 선택'])[1]/following::div[5]</value>
+      <webElementGuid>e7aa37b5-3e53-4cf9-af4a-0e4c1f7f31a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]</value>
+      <webElementGuid>f35a7406-9267-44c3-abfd-3349b644010d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '단일 발송서명 문서를 한 명의 수신자에게 발송해요' or . = '단일 발송서명 문서를 한 명의 수신자에게 발송해요')]</value>
+      <webElementGuid>4206aadc-16ac-4b8e-b615-e09d71cdd622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>98b577bc-0932-4748-93a5-689b3272e12a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '​​참여자의 서명 필드가 없어요. 참여자를 제거하거나 필드를 추가해 주세요.서명 권한 양도서명 거부' or . = '​​참여자의 서명 필드가 없어요. 참여자를 제거하거나 필드를 추가해 주세요.서명 권한 양도서명 거부')]</value>
+      <webElementGuid>f8b562d1-64c6-4b57-9be2-92b4c38eb647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]</value>
+      <webElementGuid>31866647-62d7-4d10-98e5-7f6eab735df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>71df23ad-c264-4db5-8450-79a325648e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '취소편집 완료' or . = '취소편집 완료')]</value>
+      <webElementGuid>474ea636-7e29-49b1-abc8-ea3345c54bca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

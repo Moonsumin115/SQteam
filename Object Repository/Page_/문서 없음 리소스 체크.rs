@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>문서 없음 리소스 체크</name>
+   <tag></tag>
+   <elementGuidId>22f9218d-7551-4411-a3fc-29f94a8fda51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '서명 문서가 없어요.' or . = '서명 문서가 없어요.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styled__Wrapper-sc-p8azkf-0.gdaqHR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/main/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54460871-bf2d-48c4-9f62-9f7fcb271abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styled__Wrapper-sc-p8azkf-0 gdaqHR</value>
+      <webElementGuid>fbde9fb0-cede-4c18-a82a-34a6fe9ee710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>서명 문서가 없어요.</value>
+      <webElementGuid>cfc15ad6-0f33-4e65-b081-736984236fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-3vsr9p&quot;]/div[@class=&quot;MuiBox-root css-1ik4laa&quot;]/div[@class=&quot;MuiBox-root css-hpuc4i&quot;]/main[@class=&quot;MuiBox-root css-roxj3j&quot;]/div[@class=&quot;MuiBox-root css-11jivkb&quot;]/div[@class=&quot;MuiBox-root css-1yygsgg&quot;]/div[@class=&quot;MuiBox-root css-1ofqig9&quot;]/div[@class=&quot;styled__Wrapper-sc-p8azkf-0 gdaqHR&quot;]</value>
+      <webElementGuid>d8b6d2bc-dd60-46fb-add4-c320883e4b47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/main/div/div/div/div[2]</value>
+      <webElementGuid>1f8bbe1e-16ab-4cd2-aae3-aaf4d4024bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[1]</value>
+      <webElementGuid>ae78a75e-7735-43b6-afce-259bd30d1224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[5]</value>
+      <webElementGuid>909da541-8876-4f83-ba24-5e4ff1d7271d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::div[2]</value>
+      <webElementGuid>8a4938eb-b29f-4645-b074-8d994aaf0762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[2]</value>
+      <webElementGuid>32526103-0ebc-4fd5-b8c9-305ab33832de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '서명 문서가 없어요.' or . = '서명 문서가 없어요.')]</value>
+      <webElementGuid>f84c7af4-6d7f-46e6-a56e-4eb2a6d2e581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/main/div/div/div/div[2]/div</value>
+      <webElementGuid>9351e1a0-600b-4e56-b698-2e59d5f18597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[2]</value>
+      <webElementGuid>50fc13b1-6195-408e-8af4-60ea873d2b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[6]</value>
+      <webElementGuid>b8d9bbb3-7570-4026-8741-7c8c0b88826f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::div[1]</value>
+      <webElementGuid>b9d30973-f1e6-4e18-b68e-637af479a7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보 처리방침'])[1]/preceding::div[2]</value>
+      <webElementGuid>51704309-eab5-4630-bfbf-a1a51127edeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='서명 문서가 없어요.']/parent::*</value>
+      <webElementGuid>3d54ae49-f10d-47c7-89d7-05aa830b1742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[2]/div</value>
+      <webElementGuid>e4927c97-6b7b-441d-a049-1368234a30f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

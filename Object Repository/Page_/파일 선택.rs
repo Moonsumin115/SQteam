@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>파일 선택</name>
+   <tag></tag>
+   <elementGuidId>fc6d57c9-917e-4ad1-b543-4b6fea97a29e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-fill.MuiButton-fillPrimary.MuiButton-sizeMedium.MuiButton-fillSizeMedium.MuiButton-root.MuiButton-fill.MuiButton-fillPrimary.MuiButton-sizeMedium.MuiButton-fillSizeMedium.css-12h69kn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fe279c65-b339-43e9-ab87-26b7db60db72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium css-12h69kn</value>
+      <webElementGuid>d6850acf-5185-458c-a795-cd07dfa5ec38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0ad22916-c088-4205-bfd8-9a5072e5f9f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9de233b3-b70b-4e0a-8a4e-1aa251015def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>파일 선택</value>
+      <webElementGuid>bd7a4561-7031-470e-bd36-b2bd86b6bfad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-3vsr9p&quot;]/div[@class=&quot;MuiBox-root css-1ik4laa&quot;]/div[@class=&quot;MuiBox-root css-hpuc4i&quot;]/main[@class=&quot;MuiBox-root css-roxj3j&quot;]/div[@class=&quot;MuiBox-root css-1k8t7d9&quot;]/div[@class=&quot;SelectDocumentTab__Wrapper-sc-be7v4d-0 jrznEg&quot;]/div[@class=&quot;MuiBox-root css-1vx1dtt&quot;]/div[@class=&quot;MuiBox-root css-14kxyr&quot;]/div[@class=&quot;styled__WrapperUploadBlock-sc-1iwj84n-0 fGcLYL&quot;]/div[@class=&quot;MuiBox-root css-bgpvel&quot;]/div[@class=&quot;MuiBox-root css-vvoe96&quot;]/div[@class=&quot;MuiBox-root css-wfqyff&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium css-12h69kn&quot;]</value>
+      <webElementGuid>5ca07e6b-6bbc-422b-90a7-1f32ef1f5797</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>ad1cda79-91cc-4a81-8d5b-609bfb150927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/main/div/div/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>de86e24d-8698-4671-9ba7-734d5f2a991b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='템플릿'])[2]/following::button[1]</value>
+      <webElementGuid>d5cd926e-3d59-4fe6-939d-b7f07b054c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='임시 저장 문서'])[1]/following::button[2]</value>
+      <webElementGuid>d5079cf3-d3f5-48db-9aff-05b00714fb5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::button[1]</value>
+      <webElementGuid>da2bca6a-89ac-4984-9254-1e43658160f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보 처리방침'])[1]/preceding::button[1]</value>
+      <webElementGuid>ea85f9bc-944c-465b-8508-3e7c800a3ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='파일 선택']/parent::*</value>
+      <webElementGuid>837c231f-2b71-45cf-aed7-2f396f870953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>20ede6e0-566a-4c91-9599-74fdad49c11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '파일 선택' or . = '파일 선택')]</value>
+      <webElementGuid>9f530bda-d486-4bd4-8707-b607b2cc9705</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

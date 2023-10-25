@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>내 서명_ 필드비어있음 체크포인트</name>
+   <tag></tag>
+   <elementGuidId>93989de9-6e6b-4b49-91ee-a607c2f6247c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styled__Text-sc-1nhdku1-0.jsAyzS</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bceab661-5716-4354-8b05-3ee8d503b174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styled__Text-sc-1nhdku1-0 jsAyzS</value>
+      <webElementGuid>fa2bf5ab-0623-4eb2-be40-4904531970da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>서명 문서에 추가한 필드가 비어 있어요. 필드에 내용을 입력해 주세요.</value>
+      <webElementGuid>2d871d4f-bf22-4336-871c-1ad2ba135162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-4qljru&quot;]/div[@class=&quot;MuiSnackbar-root MuiSnackbar-anchorOriginTopCenter css-zppt23&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation6 MuiAlert-root MuiAlert-filledWarning MuiAlert-filled css-rjsnrv&quot;]/div[@class=&quot;MuiAlert-message css-wnhfnw&quot;]/div[@class=&quot;styled__Text-sc-1nhdku1-0 jsAyzS&quot;]</value>
+      <webElementGuid>78a3fe4d-c083-4fd1-81e4-0251139f7ecd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div</value>
+      <webElementGuid>d0f292af-b198-47ac-981e-9dd9ba88de47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='초기화'])[1]/preceding::div[11]</value>
+      <webElementGuid>a32f00df-2c79-4c80-aa4f-7afa12d779a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='눈금 보이기'])[1]/preceding::div[14]</value>
+      <webElementGuid>f8f309f6-a8f7-4ee5-89bf-f0ac07b27f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='서명 문서에 추가한 필드가 비어 있어요. 필드에 내용을 입력해 주세요.']/parent::*</value>
+      <webElementGuid>145fa8a1-548f-4285-9c30-cfe0a5b8e5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div</value>
+      <webElementGuid>b43d1268-a344-4f77-8943-16421ab1e13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '서명 문서에 추가한 필드가 비어 있어요. 필드에 내용을 입력해 주세요.' or . = '서명 문서에 추가한 필드가 비어 있어요. 필드에 내용을 입력해 주세요.')]</value>
+      <webElementGuid>71dc8315-9859-4bfd-80fa-eba07f8d748c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

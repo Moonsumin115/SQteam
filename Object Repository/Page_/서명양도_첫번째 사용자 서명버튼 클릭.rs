@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>서명양도_첫번째 사용자 서명버튼 클릭</name>
+   <tag></tag>
+   <elementGuidId>4893cfc3-f5cf-4280-802c-1e9cc54d63fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styled__Item-sc-fsqwxz-2.guIejy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='signFiled']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5fb8af50-1517-4bfa-a63c-bf3c179b2987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styled__Item-sc-fsqwxz-2 guIejy</value>
+      <webElementGuid>1a211205-d08f-422f-9c86-4602edd4517f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>서명</value>
+      <webElementGuid>f1ce8c3b-0d51-4b12-9979-929dd1264e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signFiled&quot;)/div[@class=&quot;styled__Item-sc-fsqwxz-2 guIejy&quot;]</value>
+      <webElementGuid>e04a9aae-920a-4394-847d-ea3bbe3aecfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='signFiled']/div</value>
+      <webElementGuid>d970a508-36b0-414b-97d8-c3080f22104f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[5]</value>
+      <webElementGuid>6fc3bc54-517b-4c75-8035-741d33337735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='편집'])[1]/following::div[13]</value>
+      <webElementGuid>71b447f4-293e-4b95-ad19-55d4814e40b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::div[18]</value>
+      <webElementGuid>a4db09c2-d48a-4bd4-b8e4-40192ff1177f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 순서 지정하기'])[1]/preceding::div[23]</value>
+      <webElementGuid>1d7bea98-4d1d-4694-a2d8-4304bf09052b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>7caa9539-4b7c-4366-be40-4fdaf06e96eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '서명' or . = '서명')]</value>
+      <webElementGuid>fe795326-b471-4371-9503-6642d16e6943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/preceding::div[27]</value>
+      <webElementGuid>a7f85e55-3aca-4d47-90e8-d010b284a8f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

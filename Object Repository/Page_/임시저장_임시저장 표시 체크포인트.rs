@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>임시저장_임시저장 표시 체크포인트</name>
+   <tag></tag>
+   <elementGuidId>1a4c42cf-4c2e-430f-8be2-67e8dc736ff3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styled__StatusInner-sc-1f56z8f-1.bGbfSL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@type='draft']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f4f187d-c33b-4d66-aa68-4e19afc3e7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>draft</value>
+      <webElementGuid>9c7e7a48-461a-4c0c-a3be-1909a18a1c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styled__StatusInner-sc-1f56z8f-1 bGbfSL</value>
+      <webElementGuid>ce6e1569-120c-4ded-8581-d9750acca382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>임시 저장</value>
+      <webElementGuid>32b8c0d0-714e-4903-8470-4bcfac0c2a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-3vsr9p&quot;]/div[@class=&quot;MuiBox-root css-1ik4laa&quot;]/div[@class=&quot;MuiBox-root css-hpuc4i&quot;]/main[@class=&quot;MuiBox-root css-roxj3j&quot;]/div[@class=&quot;MuiBox-root css-11jivkb&quot;]/div[@class=&quot;MuiBox-root css-1yygsgg&quot;]/div[@class=&quot;MuiBox-root css-1ofqig9&quot;]/div[@class=&quot;MuiBox-root css-1alisiy&quot;]/div[@class=&quot;MuiBox-root css-1m18l0t&quot;]/div[@class=&quot;styled__StatusWrapper-sc-1f56z8f-0 dQfcJg&quot;]/div[@class=&quot;styled__StatusInner-sc-1f56z8f-1 bGbfSL&quot;]</value>
+      <webElementGuid>99f92e14-0fc8-460b-a1a7-0ef2330d4ff9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@type='draft']</value>
+      <webElementGuid>0d040f29-6119-4044-8e6d-53b3d6d26266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/main/div/div/div/div[3]/div[2]/div/div</value>
+      <webElementGuid>4708bbf3-3204-4b6e-a869-b2d7c2bd783a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='관리'])[1]/following::div[5]</value>
+      <webElementGuid>d9556fbc-7e51-429e-9d7b-4448b660ee1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='일시'])[1]/following::div[6]</value>
+      <webElementGuid>93be59fa-b950-413c-9806-a5725e74e7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sample_pdf'])[1]/preceding::div[1]</value>
+      <webElementGuid>1a49408e-dc46-416b-a6be-a20672fac974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='임시 저장']/parent::*</value>
+      <webElementGuid>39cf4e65-4a3b-4206-8f27-3a14d07830e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>4844a340-a7cb-4aad-89b0-e5c6a2b63988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@type = 'draft' and (text() = '임시 저장' or . = '임시 저장')]</value>
+      <webElementGuid>63ef782f-bb64-43ef-a409-77378cd33dfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

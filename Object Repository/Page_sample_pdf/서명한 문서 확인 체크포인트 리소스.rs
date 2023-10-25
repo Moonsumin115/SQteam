@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>서명한 문서 확인 체크포인트 리소스</name>
+   <tag></tag>
+   <elementGuidId>4c5cd4ed-c8cf-4223-ad26-de67098e1257</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-380ovo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45a60e6f-c769-408a-b274-38143e880289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-380ovo</value>
+      <webElementGuid>f7eb5a9b-638b-4864-8fca-64a5bb8878cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>서명한 문서를 보냈어요.</value>
+      <webElementGuid>2df919bd-52b2-4332-a339-830408b411eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-h80ire&quot;]/div[@class=&quot;MuiBox-root css-1686rbf&quot;]/div[@class=&quot;MuiBox-root css-watpwd&quot;]/div[@class=&quot;MuiBox-root css-so6v13&quot;]/div[@class=&quot;MuiBox-root css-380ovo&quot;]</value>
+      <webElementGuid>2135f819-7fb2-4fd6-9e8b-d6d7e8731c81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>34b9eb34-ee48-4acd-bbf5-d53e276c9d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서함'])[1]/preceding::div[1]</value>
+      <webElementGuid>165b407a-a822-412b-b49d-6ca6f25f056d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='서명한 문서를 보냈어요.']/parent::*</value>
+      <webElementGuid>456be0fa-4978-4586-96ad-87f24613e3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>b3a4962b-9a89-47cd-83f3-99cbe96b6a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '서명한 문서를 보냈어요.' or . = '서명한 문서를 보냈어요.')]</value>
+      <webElementGuid>8e82dd7c-bdfa-4898-9e85-26c701c58fc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
