@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>eef18f9e-b180-4cee-8799-01e380fd9174</webElementGuid>
+      <webElementGuid>fa89e4af-81f1-497c-9123-a19abb73fd6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiDialogContent-root css-1cqplmn</value>
-      <webElementGuid>187bb287-e933-4a2e-9dcb-b8245850850d</webElementGuid>
+      <webElementGuid>8190217e-cfdf-4c8a-9e96-f0cf410b8275</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>내 문서 만들기를 완료해요.</value>
-      <webElementGuid>01bba3d8-dbca-421e-9e50-d8b98d4b6222</webElementGuid>
+      <webElementGuid>5970044f-88dd-4112-8098-25a461eab004</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogContent-root css-1cqplmn&quot;]</value>
-      <webElementGuid>4b0e0eb2-c971-4dd2-be08-2670f558863f</webElementGuid>
+      <webElementGuid>d79ce633-0da2-4349-ade0-83bdb23a60d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 및 보내기'])[1]/following::div[1]</value>
-      <webElementGuid>79a25010-6577-4e0c-97e6-35f9bb9ef3f8</webElementGuid>
+      <webElementGuid>dbb7ea69-ba9d-4082-92c4-88003bd914cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 필드 속성 설정'])[1]/following::div[11]</value>
-      <webElementGuid>8debd8ad-c4e6-4bc0-af9b-7fa1260346b1</webElementGuid>
+      <webElementGuid>21419f6b-bc62-4e7e-a78c-4791d37a439e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::div[2]</value>
-      <webElementGuid>5214d6bb-aa5b-4004-8794-3845aeefd55a</webElementGuid>
+      <webElementGuid>1caa2da1-4479-4440-ae38-5fdd21ce80ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='확인'])[1]/preceding::div[2]</value>
-      <webElementGuid>b6d9f2ec-05e2-46bf-ab13-1112dc1fd243</webElementGuid>
+      <webElementGuid>82659955-a0bf-4842-8a4d-7065bf1ff047</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='내 문서 만들기를 완료해요.']/parent::*</value>
-      <webElementGuid>e93d0477-eb79-457c-b132-372255a04d55</webElementGuid>
+      <webElementGuid>4cb6e5a6-22f1-448d-b947-9f44d23e3efe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[3]/div/div</value>
-      <webElementGuid>faa18963-dc01-4b56-ac5f-633168544b06</webElementGuid>
+      <webElementGuid>62477eb8-5f08-4595-900f-fedc4dab5b7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '내 문서 만들기를 완료해요.' or . = '내 문서 만들기를 완료해요.')]</value>
-      <webElementGuid>c854d0e5-2daf-4d87-844b-712e31bd75be</webElementGuid>
+      <webElementGuid>4cd5a72a-b7e2-4549-b59a-7d2ca2f96ad8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

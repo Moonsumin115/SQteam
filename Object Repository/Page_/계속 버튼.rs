@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9631b363-bfed-4277-af1b-1c185fdbf633</webElementGuid>
+      <webElementGuid>2ade2131-b568-4cc3-b0c6-a2cfeb09dc2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge css-ro466v</value>
-      <webElementGuid>3b9110f3-da0b-4625-a77d-d3d8c49c24d3</webElementGuid>
+      <webElementGuid>16fa00cd-3852-43cb-b518-e0e4734188ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>81a4d83c-2c01-4000-9fcc-50034dc9ee70</webElementGuid>
+      <webElementGuid>8d18fd7f-947f-4493-baa2-9027d120868b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f071d68f-6d26-45a5-a878-6a8cf47e8a29</webElementGuid>
+      <webElementGuid>a2b247ce-0c39-4a98-8df2-4d677fb951d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>계속</value>
-      <webElementGuid>2dc9f182-bcb7-408f-8954-d822f4f2e6b1</webElementGuid>
+      <webElementGuid>dd48744d-0096-4508-b7b2-b3e6384b9419</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-4qljru&quot;]/div[@class=&quot;styled__Wrapper-sc-273jui-0 fbRZiS&quot;]/div[@class=&quot;styled__Panel-sc-273jui-3 bZymoj&quot;]/div[@class=&quot;MuiBox-root css-u4p24i&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge css-ro466v&quot;]</value>
-      <webElementGuid>cb43b1c3-052e-4c68-b8aa-1b6d3ee45211</webElementGuid>
+      <webElementGuid>f96b3441-7b85-46ea-a242-ed5dc7e20d5c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>eefb53d1-55b5-48b2-ad0a-c54e536a6551</webElementGuid>
+      <webElementGuid>d16ea62a-d6c1-4412-a631-fd41cc8a87b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[3]/div/div/button[2]</value>
-      <webElementGuid>96b96fa1-6671-449d-beaa-efc1a84fbd34</webElementGuid>
+      <webElementGuid>271f592a-e4b0-421d-9c0a-68c97adcaf07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::button[1]</value>
-      <webElementGuid>4872da0f-6481-4c2e-a401-33baa305fd04</webElementGuid>
+      <webElementGuid>2eaca332-6973-4b67-b1a7-e74aacb819ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::button[4]</value>
-      <webElementGuid>9c825637-91d7-4df5-92d0-a66461e5b724</webElementGuid>
+      <webElementGuid>ebdf59e4-e113-4ad4-ba46-fe52de03fca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 참여자'])[1]/preceding::button[1]</value>
-      <webElementGuid>30285007-a150-4912-8035-8f8409b1c6c5</webElementGuid>
+      <webElementGuid>487aa137-05c3-48a0-ad50-52e8a753a991</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서비스품질팀 STG자동화004'])[1]/preceding::button[1]</value>
-      <webElementGuid>c77fc461-8d47-42f8-9391-2c4b51903c55</webElementGuid>
+      <webElementGuid>f9709cb1-9b5c-4327-acc9-d03b5fcd7f1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='계속']/parent::*</value>
-      <webElementGuid>b1492bec-d292-4479-bed1-ba26afbd764d</webElementGuid>
+      <webElementGuid>be0bb4d0-24ac-4d07-9958-3329771f4d5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/button[2]</value>
-      <webElementGuid>da828acd-2848-4390-92c6-21443a7d00f0</webElementGuid>
+      <webElementGuid>eb2997b8-f236-4b0b-ac96-470afb4ad166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '계속' or . = '계속')]</value>
-      <webElementGuid>bc260224-f0c0-464d-a67c-b55e46a9a002</webElementGuid>
+      <webElementGuid>7284555b-5c0f-4a39-8f1e-f46e231d9b52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::button[5]</value>
-      <webElementGuid>cdafcf0b-dce5-4299-b32b-db7c38812a75</webElementGuid>
+      <webElementGuid>91561c1e-d6bc-4406-afbb-dc19d19fee98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='편집'])[1]/preceding::button[1]</value>
-      <webElementGuid>bc3d07c0-fdfd-4429-83d0-0cbc4f35faf3</webElementGuid>
+      <webElementGuid>75fb7413-2e35-4210-b689-a5706aa5158b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='발송 전용 문서로 만들기'])[1]/preceding::button[1]</value>
-      <webElementGuid>9e63fdf9-c200-4d1c-87ed-3e39113149d6</webElementGuid>
+      <webElementGuid>e4a8352e-6b2a-4a12-b1e6-a27af856ff01</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

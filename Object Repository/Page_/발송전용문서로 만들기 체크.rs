@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>내 서명 문서로 만들기</name>
+   <name>발송전용문서로 만들기 체크</name>
    <tag></tag>
-   <elementGuidId>6b4e42af-37e9-408f-93c1-11d78990ed41</elementGuidId>
+   <elementGuidId>f66635b9-db35-4c11-aff2-9feb8586de02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>div.MuiBox-root.css-9xkke2 > label.MuiFormControlLabel-root.MuiFormControlLabel-labelPlacementEnd.css-ucax6l > span.MuiTypography-root.MuiTypography-body1.MuiFormControlLabel-label.css-1l0ew3p</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//label[@id='Edit-SignerOrder-GetSignatures']/span[2])[2]</value>
+         <value>//div[@id='create_left_panel']/div[2]/div[4]/label/span[2]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5256b5a0-a7b4-4eab-9b71-4fdf365712c8</webElementGuid>
+      <webElementGuid>aaf26b5b-8e91-48ea-8361-9025b7d21ca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,31 +30,31 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-1l0ew3p</value>
-      <webElementGuid>e430c0e7-1cc4-40a2-97b5-97c8d329c8cb</webElementGuid>
+      <webElementGuid>8bf306ba-ef6b-4005-a862-abfd973d03f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>내 서명 문서로 만들기</value>
-      <webElementGuid>edd73a12-59e1-4cc0-b6f0-771ec1dbbccc</webElementGuid>
+      <value>발송 전용 문서로 만들기</value>
+      <webElementGuid>f91fc1cf-35ab-49e3-8b21-06d087697ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;create_left_panel&quot;)/div[@class=&quot;MuiBox-root css-2nu0oh&quot;]/label[@id=&quot;Edit-SignerOrder-GetSignatures&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-1l0ew3p&quot;]</value>
-      <webElementGuid>1591a2ef-c0a1-4b32-aaf9-5a46d9e0dcbf</webElementGuid>
+      <value>id(&quot;create_left_panel&quot;)/div[@class=&quot;MuiBox-root css-2nu0oh&quot;]/div[@class=&quot;MuiBox-root css-9xkke2&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-ucax6l&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-1l0ew3p&quot;]</value>
+      <webElementGuid>bfdb3271-34c9-48da-be91-740ab77cbd90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//label[@id='Edit-SignerOrder-GetSignatures']/span[2])[2]</value>
-      <webElementGuid>31eaf50b-5102-4bee-8f05-a192c4db315b</webElementGuid>
+      <value>//div[@id='create_left_panel']/div[2]/div[4]/label/span[2]</value>
+      <webElementGuid>1a538c71-4913-4dbc-88e6-25ac43de736a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,54 +62,54 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 순서 지정하기'])[1]/following::span[3]</value>
-      <webElementGuid>be153351-c43d-40ee-867f-c4949ca8887e</webElementGuid>
+      <webElementGuid>ad502407-75a9-459b-be5f-385354e4e5e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::span[6]</value>
-      <webElementGuid>b08e36ca-86c1-4558-bd70-7b6a3509f47b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::span[6]</value>
+      <webElementGuid>4ebac97f-7763-4e1f-8ce7-07601cffffc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='발송 전용 문서로 만들기'])[1]/preceding::span[3]</value>
-      <webElementGuid>81646e88-089a-4e76-bf1b-65aab7bdf165</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명'])[2]/preceding::span[1]</value>
+      <webElementGuid>eca3e4e3-6a90-4ef4-8e58-5bcb65820353</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명'])[2]/preceding::span[4]</value>
-      <webElementGuid>4024f5ad-f2ac-407f-b734-1d414768b62e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='체크 박스 필드 속성 설정'])[1]/preceding::span[1]</value>
+      <webElementGuid>7d63b7d9-9454-486a-a32f-f2b5e36539d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='내 서명 문서로 만들기']/parent::*</value>
-      <webElementGuid>4e2c3c4a-de84-4b77-96d6-2051e8b5d030</webElementGuid>
+      <value>//*/text()[normalize-space(.)='발송 전용 문서로 만들기']/parent::*</value>
+      <webElementGuid>dc0bda17-dc6a-43ab-a52a-6eeb2d9e7c57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label[2]/span[2]</value>
-      <webElementGuid>60c6f8c8-c60f-4c73-a668-80e13179dbf5</webElementGuid>
+      <value>//div[4]/label/span[2]</value>
+      <webElementGuid>ca7ba466-bf1a-490e-9201-99fcdf939b8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '내 서명 문서로 만들기' or . = '내 서명 문서로 만들기')]</value>
-      <webElementGuid>6bd3842a-d278-4e42-9893-68ff54d59bff</webElementGuid>
+      <value>//span[(text() = '발송 전용 문서로 만들기' or . = '발송 전용 문서로 만들기')]</value>
+      <webElementGuid>c5ad028f-d461-4f3e-bc32-e320c5b472d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

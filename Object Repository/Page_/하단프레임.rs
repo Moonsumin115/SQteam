@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>cfec6213-94c2-485a-86ff-bc6f6905309b</webElementGuid>
+      <webElementGuid>513c0809-3a1b-4584-b473-220dc1baca0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styled__Wrapper-sc-273jui-0 fbRZiS</value>
-      <webElementGuid>01844772-e3e9-49ca-bfc2-b7a3fb81575e</webElementGuid>
+      <webElementGuid>c8ded153-db60-4341-b0a3-bebdea5d3a63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>취소계속</value>
-      <webElementGuid>14566d50-acef-4f61-b91e-cfe48a388a28</webElementGuid>
+      <webElementGuid>fc0fe3d0-cac6-435f-8a93-dd3832e3c520</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-4qljru&quot;]/div[@class=&quot;styled__Wrapper-sc-273jui-0 fbRZiS&quot;]</value>
-      <webElementGuid>e3dca29b-7f8d-4e14-8029-40929d4817f7</webElementGuid>
+      <webElementGuid>ded4f60d-2262-4779-992a-52e7cbbd807b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[3]</value>
-      <webElementGuid>94ec6933-ae0d-483d-a1cc-f9fdf1a6e0a0</webElementGuid>
+      <webElementGuid>425cf33a-314c-428a-8d6d-533f9a3d9532</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[8]</value>
-      <webElementGuid>0d8fe805-bf81-459d-8924-e39eba3736e3</webElementGuid>
+      <webElementGuid>c9ccb886-4566-45ce-bfc5-9bd22eb417b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='눈금 보이기'])[1]/following::div[17]</value>
-      <webElementGuid>730ec7da-9b58-4d27-96f1-210571b68c27</webElementGuid>
+      <webElementGuid>b03e7ca7-bab7-4213-96da-f9742c7cf9e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[3]</value>
-      <webElementGuid>b1cf6b4b-5dde-40af-ada2-d9e0e228a6b2</webElementGuid>
+      <webElementGuid>54b0321f-422c-4bea-b48f-690525964af3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '취소계속' or . = '취소계속')]</value>
-      <webElementGuid>26f596ed-3aa0-4961-94cc-6b9b7198ef65</webElementGuid>
+      <webElementGuid>740dab3c-076d-4f2b-ae35-4cbad63b4c2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[9]</value>
-      <webElementGuid>f71c9ac8-77cc-4a70-8c5f-2c73b1165a21</webElementGuid>
+      <webElementGuid>2d0b3ab3-527d-45c4-8960-8d10890a492d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='눈금 보이기'])[1]/following::div[18]</value>
-      <webElementGuid>249097bf-4f68-4bfa-b694-6e9692006ec5</webElementGuid>
+      <webElementGuid>5af0ee75-4440-4200-8e79-20d6b8cbcab1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>8c454b89-568b-46b3-8db6-33c26a4b0c6c</webElementGuid>
+      <webElementGuid>8d1fb04b-fa9a-467f-9c1e-5ecfe814ceb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 css-1jgw281</value>
-      <webElementGuid>3952626e-9f74-4642-9637-67ea97aa6db5</webElementGuid>
+      <webElementGuid>226255d6-9cf2-4838-a1ba-7560c6322a19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>대량 발송을 시작해요.</value>
-      <webElementGuid>33b2d3f2-0351-45b6-83af-f5f1c6329a27</webElementGuid>
+      <webElementGuid>3d5a90d1-0c9d-446b-adb7-f1f6733a661a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogContent-root css-1cqplmn&quot;]/div[@class=&quot;MuiBox-root css-dvxtzn&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1jgw281&quot;]</value>
-      <webElementGuid>5d19f780-a717-4465-97b5-0e7edb81a6f6</webElementGuid>
+      <webElementGuid>a977b397-7c7c-4e2f-b3a6-93a0b436340e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='대량 발송 완료'])[1]/following::p[1]</value>
-      <webElementGuid>d3de124d-05cb-455f-bcbe-5921ccea0af3</webElementGuid>
+      <webElementGuid>c0774ba7-ba7f-48bd-9a07-b507b1d22a2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[9]/following::p[1]</value>
-      <webElementGuid>cbdda747-311a-48d7-b021-eef6b7c37a37</webElementGuid>
+      <webElementGuid>c3038cc5-a0c3-4403-8272-cee4849959e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='문서함으로'])[1]/preceding::p[4]</value>
-      <webElementGuid>69d9f11c-d852-42af-b7b3-58f4a92ee71b</webElementGuid>
+      <webElementGuid>b5aa2616-8556-401b-9b47-5203f9474f9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='대량 발송을 시작해요.']/parent::*</value>
-      <webElementGuid>893c84ef-6bcf-42fc-8582-5809de37cf51</webElementGuid>
+      <webElementGuid>65fd23a7-49d0-4682-ad66-8db589322db9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/p</value>
-      <webElementGuid>771bf215-565d-43b3-abfe-e6bb65338e42</webElementGuid>
+      <webElementGuid>510c48b9-b8e0-4e78-b0f3-357bef760e50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '대량 발송을 시작해요.' or . = '대량 발송을 시작해요.')]</value>
-      <webElementGuid>1e5817f4-9da8-47c7-a111-4bdefe7dc7ae</webElementGuid>
+      <webElementGuid>1cc2b46a-a645-4326-a8a3-0a51b496ac46</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

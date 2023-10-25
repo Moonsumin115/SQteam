@@ -42,6 +42,8 @@ WebUI.click(findTestObject('Object Repository/Page_/시작하기'))
 '파일 선택 버튼'
 WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Page_/파일 선택'), 'C:\\download\\sample_pdf.pdf')
 
+WebUI.delay(5)
+
 '하단프레임의 \'계속\' 버튼'
 WebUI.click(findTestObject('Object Repository/Page_/하단프레임 계속버튼'))
 

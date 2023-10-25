@@ -64,9 +64,6 @@ WebUI.click(findTestObject('Object Repository/Page_/내 서명_서명하기 클�
 '서명 캔버스에 넣기'
 WebUI.doubleClick(findTestObject('Object Repository/Page_/내 서명_PDF 캔버스'))
 
-'좌측 메뉴 영역 클릭'
-WebUI.click(findTestObject('Object Repository/Page_/내 서명_좌측 메뉴'))
-
 '내 서명 문서로 만들기 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/내 서명 문서로 만들기'))
 
@@ -97,8 +94,7 @@ WebUI.click(findTestObject('Object Repository/Page_/내 서명_이름계정입�
 '알림 체크포인트'
 WebUI.verifyElementText(findTestObject('Object Repository/Page_/내 서명_ 필드비어있음 체크포인트'), '서명 문서에 추가한 필드가 비어 있어요. 필드에 내용을 입력해 주세요.')
 
-'내 서명문서 만들기'
-WebUI.click(findTestObject('Object Repository/Page_/내 서명_ 내 서명문서 만들기'))
+WebUI.click(findTestObject('Object Repository/Page_/웹오피스 편집 취소버튼'))
 
 '도장선택'
 WebUI.click(findTestObject('Object Repository/Page_/내 서명_도장 선택'))

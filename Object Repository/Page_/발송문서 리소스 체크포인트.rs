@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>5b1c98bc-b964-4797-b67e-74b19a20bad4</webElementGuid>
+      <webElementGuid>96e9ee2a-74d7-4d2d-b3ec-628f7af917e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 css-11qog6d</value>
-      <webElementGuid>f826e678-6d1a-4070-8821-796b67754d5a</webElementGuid>
+      <webElementGuid>48d5d015-2b00-4d56-bd69-f5a674e7b6cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>발송 전용 문서는 서명 필드 없이 발송해요.</value>
-      <webElementGuid>3953cc50-c6eb-495b-83fa-d87612a835fc</webElementGuid>
+      <webElementGuid>6cb47446-5364-4d1f-96e2-6d2caa5d4a2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;create_left_panel&quot;)/div[@class=&quot;MuiBox-root css-2nu0oh&quot;]/div[@class=&quot;MuiBox-root css-bwf6iq&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-11qog6d&quot;]</value>
-      <webElementGuid>5c7085c8-96e8-4e6d-a3dc-6debd93ebb3a</webElementGuid>
+      <webElementGuid>06f3ee56-6d7d-4ef1-972e-28c68a3d87a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='create_left_panel']/div[3]/div[2]/p</value>
-      <webElementGuid>9e04a245-2ca0-4e94-b0e1-58b933e7159b</webElementGuid>
+      <webElementGuid>3ddb1a92-f74d-4777-8f8e-5520a0212e99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='필드 생성'])[1]/following::p[1]</value>
-      <webElementGuid>04a71ee8-2dbb-48da-aadf-ba9cfe2be8ed</webElementGuid>
+      <webElementGuid>f8637fc2-5886-4d1a-99b6-29033c908a34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='발송 전용 문서로 만들기'])[1]/following::p[1]</value>
-      <webElementGuid>cfcd2cd8-93f9-4017-8fd1-0acf80a00873</webElementGuid>
+      <webElementGuid>ba430420-2d6c-4f70-8a13-eb74d5800a6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='체크 박스 필드 속성 설정'])[1]/preceding::p[2]</value>
-      <webElementGuid>031d88b3-9a49-4b8e-b1bf-bd64d1f1f186</webElementGuid>
+      <webElementGuid>b6a10448-e986-45c4-a057-c7c528721f10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::p[2]</value>
-      <webElementGuid>5e76b4cb-a5bb-4512-96cc-12a4ab02d950</webElementGuid>
+      <webElementGuid>67d123d1-ee72-4134-b0b5-b5b34c7ca94e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='발송 전용 문서는 서명 필드 없이 발송해요.']/parent::*</value>
-      <webElementGuid>9d6dd09a-5e72-478c-8139-b4d7a7ea4bab</webElementGuid>
+      <webElementGuid>2bb92546-8909-4bbf-b452-7243c49723e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p</value>
-      <webElementGuid>4ccc2adc-1530-4123-bfb0-a250d3240ed5</webElementGuid>
+      <webElementGuid>522ee448-d639-4f39-8f6c-4fc2cfff9514</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '발송 전용 문서는 서명 필드 없이 발송해요.' or . = '발송 전용 문서는 서명 필드 없이 발송해요.')]</value>
-      <webElementGuid>c62b5d2b-0445-488a-843c-0ebd32149406</webElementGuid>
+      <webElementGuid>b5307576-4ea8-455a-a00c-af6f1741925e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

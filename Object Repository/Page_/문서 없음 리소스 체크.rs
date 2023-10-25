@@ -6,16 +6,16 @@
    <elementGuidId>22f9218d-7551-4411-a3fc-29f94a8fda51</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = '서명 문서가 없어요.' or . = '서명 문서가 없어요.')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.styled__Wrapper-sc-p8azkf-0.gdaqHR</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='__next']/div[2]/div/div[2]/main/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '서명 문서가 없어요.' or . = '서명 문서가 없어요.')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>54460871-bf2d-48c4-9f62-9f7fcb271abc</webElementGuid>
+      <webElementGuid>ecf5746b-cf5f-4a84-846b-83d19e3a2e1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styled__Wrapper-sc-p8azkf-0 gdaqHR</value>
-      <webElementGuid>fbde9fb0-cede-4c18-a82a-34a6fe9ee710</webElementGuid>
+      <webElementGuid>9505757b-e1e1-46f5-a35a-c2d7aad4d5d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>서명 문서가 없어요.</value>
-      <webElementGuid>cfc15ad6-0f33-4e65-b081-736984236fc6</webElementGuid>
+      <webElementGuid>6ae88c19-a5ac-4c72-be0b-5d155e6d179a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-3vsr9p&quot;]/div[@class=&quot;MuiBox-root css-1ik4laa&quot;]/div[@class=&quot;MuiBox-root css-hpuc4i&quot;]/main[@class=&quot;MuiBox-root css-roxj3j&quot;]/div[@class=&quot;MuiBox-root css-11jivkb&quot;]/div[@class=&quot;MuiBox-root css-1yygsgg&quot;]/div[@class=&quot;MuiBox-root css-1ofqig9&quot;]/div[@class=&quot;styled__Wrapper-sc-p8azkf-0 gdaqHR&quot;]</value>
-      <webElementGuid>d8b6d2bc-dd60-46fb-add4-c320883e4b47</webElementGuid>
+      <webElementGuid>546b7273-a6d5-47b9-ad9e-7b2ab9e7b240</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[2]/div/div[2]/main/div/div/div/div[2]</value>
-      <webElementGuid>1f8bbe1e-16ab-4cd2-aae3-aaf4d4024bfc</webElementGuid>
+      <webElementGuid>16a2f8cc-cdbb-489d-b632-d0ce0c56d98f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[1]</value>
-      <webElementGuid>ae78a75e-7735-43b6-afce-259bd30d1224</webElementGuid>
+      <webElementGuid>a1706e9d-679b-46b7-8d44-c2c221e567bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[5]</value>
-      <webElementGuid>909da541-8876-4f83-ba24-5e4ff1d7271d</webElementGuid>
+      <webElementGuid>f648b99c-f1d3-435c-906f-c4e20682cc12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::div[2]</value>
-      <webElementGuid>8a4938eb-b29f-4645-b074-8d994aaf0762</webElementGuid>
+      <webElementGuid>6c6d32e7-3109-451b-8c9e-546ec7e3c499</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/div/div[2]</value>
-      <webElementGuid>32526103-0ebc-4fd5-b8c9-305ab33832de</webElementGuid>
+      <webElementGuid>a7b9e4a8-0839-4c29-bed7-db6d8706967c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '서명 문서가 없어요.' or . = '서명 문서가 없어요.')]</value>
-      <webElementGuid>f84c7af4-6d7f-46e6-a56e-4eb2a6d2e581</webElementGuid>
+      <webElementGuid>6d3dda4f-9dfd-4d2d-9df1-7a53bb6ad173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div[2]/main/div/div/div/div[2]/div</value>
-      <webElementGuid>9351e1a0-600b-4e56-b698-2e59d5f18597</webElementGuid>
+      <webElementGuid>10ab015c-fa6f-4265-93f3-63116b61c84b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[2]</value>
-      <webElementGuid>50fc13b1-6195-408e-8af4-60ea873d2b31</webElementGuid>
+      <webElementGuid>81f6e8c2-7889-419b-8595-faf4ec0e3c21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[6]</value>
-      <webElementGuid>b8d9bbb3-7570-4026-8741-7c8c0b88826f</webElementGuid>
+      <webElementGuid>782870ee-c352-49f7-bf0d-fa8c80ca4a60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::div[1]</value>
-      <webElementGuid>b9d30973-f1e6-4e18-b68e-637af479a7c5</webElementGuid>
+      <webElementGuid>19deb308-b36d-4c92-9d5e-a275f9193d33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보 처리방침'])[1]/preceding::div[2]</value>
-      <webElementGuid>51704309-eab5-4630-bfbf-a1a51127edeb</webElementGuid>
+      <webElementGuid>547d1ca4-9da6-4ac5-b3c4-2dde0b559b0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +146,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='서명 문서가 없어요.']/parent::*</value>
-      <webElementGuid>3d54ae49-f10d-47c7-89d7-05aa830b1742</webElementGuid>
+      <webElementGuid>2ca57d41-2e82-4f08-b751-d4b437a91478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,6 +154,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/div/div[2]/div</value>
-      <webElementGuid>e4927c97-6b7b-441d-a049-1368234a30f0</webElementGuid>
+      <webElementGuid>31f281ef-33db-40a9-9891-5f33c87beb26</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

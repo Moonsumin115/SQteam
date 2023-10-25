@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>cd61d733-92c5-4475-92ed-e0a6e88612f3</webElementGuid>
+      <webElementGuid>77e196a4-3c85-47cf-97df-6767b0b98f89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>36</value>
-      <webElementGuid>3b91f9b5-81c6-4218-8594-20099457c1cb</webElementGuid>
+      <webElementGuid>4c2f52f7-bfc4-4faa-b32d-b3ef2ba50317</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://static.stg.hancomsign.com/20230330/v1/images/ic-snb-logo.svg</value>
-      <webElementGuid>86c7a67b-bdbb-4258-846d-aadc765be457</webElementGuid>
+      <webElementGuid>ec3f4805-f61f-4d86-b758-c424f913cbe4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>한컴싸인</value>
-      <webElementGuid>b1569fab-9044-4109-8e2a-d60b3d6c3294</webElementGuid>
+      <webElementGuid>e5f889a3-f3fa-4619-acc3-07610adcb47b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-h80ire&quot;]/div[@class=&quot;styled__TopHolder-sc-19cs5hy-0 eQFEPS&quot;]/nav[@class=&quot;styled__Wrapper-sc-uskflv-0 jfDmgO&quot;]/div[@class=&quot;MuiBox-root css-k008qs&quot;]/div[@class=&quot;MuiBox-root css-1ae7fi6&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1azu7kk&quot;]/img[1]</value>
-      <webElementGuid>85581f2e-a7b3-4b13-a723-c48e383f6131</webElementGuid>
+      <webElementGuid>ba8ca51d-4440-449d-8be7-fada00cd3d24</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/nav/div/div/button/img</value>
-      <webElementGuid>798afb43-a118-462c-89fa-f5f39f0e0c68</webElementGuid>
+      <webElementGuid>a710d709-6c8d-4bca-8e6b-0e839fbe0ada</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='한컴싸인']</value>
-      <webElementGuid>36fc11e7-c36e-4699-b65e-5486e5c1842f</webElementGuid>
+      <webElementGuid>1a441d6c-bd37-4001-ba97-fa0e218e6a22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>9373a3d3-b39b-4938-b7d9-32f1ce0edd08</webElementGuid>
+      <webElementGuid>9827df21-59fe-4f6b-ac97-506a7452f374</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://static.stg.hancomsign.com/20230330/v1/images/ic-snb-logo.svg' and @alt = '한컴싸인']</value>
-      <webElementGuid>a8de542b-b2e0-4d73-9a0e-0c6fbf2835ff</webElementGuid>
+      <webElementGuid>a9b0ab4b-2143-4e04-91c9-e3e9196cf535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/nav/div/div/button/img</value>
-      <webElementGuid>498e9d75-dbfe-4695-bb31-1ae8ba478dde</webElementGuid>
+      <webElementGuid>f0e5ec62-cf81-470f-b472-ee50bfb5df96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

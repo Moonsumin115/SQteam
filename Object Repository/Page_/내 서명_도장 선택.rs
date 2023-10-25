@@ -4,7 +4,12 @@
    <name>내 서명_도장 선택</name>
    <tag></tag>
    <elementGuidId>43da1bde-4b38-47d6-81d5-459d597ea734</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>#246</value>
@@ -13,16 +18,20 @@
          <key>XPATH</key>
          <value>//div[@id='246']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = '246']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>17648de9-a527-45e7-ace4-bb335e1dd90b</webElementGuid>
+      <webElementGuid>452675ad-68f3-4257-891a-1ff17f0a383a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>246</value>
-      <webElementGuid>c925b422-a6a3-4515-b99f-21aa1d171c44</webElementGuid>
+      <webElementGuid>a861365b-b0a0-449e-b5cb-73e6d835110b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styled__StampWrapper-sc-1cpb15e-2 znvYv</value>
-      <webElementGuid>fba8d248-76a5-4ddb-8767-7060e91fbf90</webElementGuid>
+      <webElementGuid>82b61764-d1ec-42bc-8f40-3808cfb05a4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;246&quot;)</value>
-      <webElementGuid>83fc0f4f-c5ff-4004-b2c9-7944bdf1b4ba</webElementGuid>
+      <webElementGuid>492a3477-2257-42db-a1c5-dcbd2df4cb5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='246']</value>
-      <webElementGuid>7a22c5f4-d3a7-461d-bc11-199b0166660c</webElementGuid>
+      <webElementGuid>d65a1068-6d95-4573-843c-7c5dd8399b0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='도장 및 서명 이미지'])[1]/following::div[5]</value>
-      <webElementGuid>5a135af8-c667-4675-a43d-32045c7800d9</webElementGuid>
+      <webElementGuid>cc89ffb6-10d9-43ca-84fe-9745439918f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 필드 속성 설정'])[1]/following::div[10]</value>
-      <webElementGuid>ea378e77-8212-4d40-9f6f-c221d53ae684</webElementGuid>
+      <webElementGuid>31c0ae39-5165-4fe7-9574-9a7949297503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::div[7]</value>
-      <webElementGuid>e3b4c09c-8d07-4e46-bf08-ca82946d5502</webElementGuid>
+      <webElementGuid>79e7cc26-3158-4cc1-ad0e-329abfaa5c1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/preceding::div[7]</value>
-      <webElementGuid>166e7729-00ff-4cb2-a379-89d5253ea3a4</webElementGuid>
+      <webElementGuid>bb8f66d0-411b-496f-8d46-ddfc55f7ae4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[3]/div/div/div/div/div/div</value>
-      <webElementGuid>8656f4d6-32aa-4246-b98d-30f7b0cdfb42</webElementGuid>
+      <webElementGuid>72a11750-ea77-4fd2-ae8a-a1311a20431d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = '246']</value>
-      <webElementGuid>9e96f901-a7b2-4587-b261-a2708e6e47b0</webElementGuid>
+      <webElementGuid>3a4e2209-10e9-41c3-bbd8-6196e8cf7ff2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

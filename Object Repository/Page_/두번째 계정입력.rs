@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2b54a138-40f4-4e9a-ac51-0fca1ff99419</webElementGuid>
+      <webElementGuid>4f7390e2-53d9-4c0e-ad94-0f3f06f665af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>64d444c2-2794-4f9b-91cc-f5fd2947e041</webElementGuid>
+      <webElementGuid>22ed6559-417b-482b-981b-9399acfd39a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>new-password</value>
-      <webElementGuid>838095ea-b276-4463-b4c4-c98baa9a7ddd</webElementGuid>
+      <webElementGuid>8cb3e502-0f78-494d-9f93-86f50538854a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>이메일</value>
-      <webElementGuid>b9c4d45e-87f0-4744-bda2-d37d5bf6f316</webElementGuid>
+      <webElementGuid>c36a173e-4f52-47e9-b9b0-bb8d6de6c5f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5618e813-31ce-4611-a83c-268652de0c0a</webElementGuid>
+      <webElementGuid>c13f5468-2e46-4eb9-a89c-d4a8a55a93be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiAutocomplete-input MuiAutocomplete-inputFocused css-iar14u</value>
-      <webElementGuid>a26cc8b0-6b4c-44e6-a551-ab577be4d713</webElementGuid>
+      <webElementGuid>640d37c6-53e6-4feb-bcce-23611865a38e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>20790d64-ae06-4285-87e2-b522237fea5d</webElementGuid>
+      <webElementGuid>9da1a999-5c68-4670-af60-67b83f881160</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0af7d6c2-0904-493a-86aa-de2a0e0f7d2b</webElementGuid>
+      <webElementGuid>dd6850e1-47a6-40bd-a0ff-b65857f10ca3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>57f77149-a723-45d5-8754-7f26e8115db5</webElementGuid>
+      <webElementGuid>2530bf8f-6f77-4fdc-a98a-2247a508f0a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b304104d-b8db-4314-b50d-92e7f265874b</webElementGuid>
+      <webElementGuid>2da4c3fc-b2c9-48d0-b9bc-b90a00641540</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>9bb64d8a-45dc-4cbf-8c14-5ae7df57ec68</webElementGuid>
+      <webElementGuid>5acc9302-a6f6-4df7-bc75-f8ff63df4627</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mui-170</value>
-      <webElementGuid>0ba543cf-6390-426e-a133-d08641b0ecbe</webElementGuid>
+      <webElementGuid>2199d984-936a-4033-8467-8d93408cb61d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>mui-170-listbox</value>
-      <webElementGuid>7810cb05-3f15-4cd4-aed3-984ef1ae7ce8</webElementGuid>
+      <webElementGuid>39b10731-d804-40de-be2d-d13088c22f7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mui-170&quot;)</value>
-      <webElementGuid>c45a8cc8-5598-4cab-acd5-147e55f8f456</webElementGuid>
+      <webElementGuid>3fb955ed-9aee-420d-8d3b-ce1d225df13c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mui-170']</value>
-      <webElementGuid>84600d6c-c537-4034-9ec9-1cb83523b020</webElementGuid>
+      <webElementGuid>51d1facb-aef8-4065-bd3b-c5fa6d064f7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div[2]/div/div/div/div/div/div/input</value>
-      <webElementGuid>57930140-7deb-4618-a6ba-2bb703a8109b</webElementGuid>
+      <webElementGuid>8cc98d65-3867-43df-baed-6f992693cf5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = '이메일' and @type = 'text' and @id = 'mui-170']</value>
-      <webElementGuid>c8be8975-3e45-4249-bc05-fb415b66189a</webElementGuid>
+      <webElementGuid>06f5d070-d8db-4bdd-a653-1c8cb1623707</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>02ccb6b0-055d-4315-93db-c473ae59ad59</webElementGuid>
+      <webElementGuid>f625a8bc-4cf0-48d7-bb7f-871c47ca2974</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://static.stg.hancomsign.com/20220629/v1/images/avatar/avatar_00.png</value>
-      <webElementGuid>006b4287-6252-42b4-a266-c0c863e81232</webElementGuid>
+      <webElementGuid>85ab77ee-7339-43ef-b345-62f6865f3e75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-1xoz5k8</value>
-      <webElementGuid>5e05354f-069e-4bb0-a285-f71d48ff10c0</webElementGuid>
+      <webElementGuid>1a02e01d-57b0-4372-b4bb-ffb3cda2b385</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user-box&quot;)/div[@class=&quot;css-1n0zp4h&quot;]/div[@class=&quot;css-1xoz5k8&quot;]</value>
-      <webElementGuid>a0380d2e-e91c-4bea-8a6a-db84aa1bfa55</webElementGuid>
+      <webElementGuid>6a0ea9a5-6bbc-4a62-9ede-6720f0fb604e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='user-box']/div/div</value>
-      <webElementGuid>03b63128-9ef6-455a-854c-79c329e12114</webElementGuid>
+      <webElementGuid>65127996-b9d5-48b3-b431-0810e6634bfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div</value>
-      <webElementGuid>ba5b4dd1-5803-428b-94b1-07e95971f940</webElementGuid>
+      <webElementGuid>ba016385-9ade-47c9-896d-df504922c217</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@src = 'https://static.stg.hancomsign.com/20220629/v1/images/avatar/avatar_00.png']</value>
-      <webElementGuid>3131386a-2b58-4f4f-9f87-91aa0e145231</webElementGuid>
+      <webElementGuid>53ef4d75-ce86-4d6f-84a6-b0fecb201087</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

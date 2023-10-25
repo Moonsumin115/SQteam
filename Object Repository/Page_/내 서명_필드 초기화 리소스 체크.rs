@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>04ee650a-abf8-4196-92b0-0fdcfa40ef50</webElementGuid>
+      <webElementGuid>0f927102-0f84-403f-bae2-3632986fedaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>문서에 설정한 서명자 정보와 필드가 초기화돼요. 계속할까요?</value>
-      <webElementGuid>6fb1d663-475c-4307-bc8d-2de910303609</webElementGuid>
+      <webElementGuid>9b03efc5-348d-4d11-bc6c-92584621e2c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogContent-root css-1cqplmn&quot;]/div[@class=&quot;MuiBox-root css-u4ll4j&quot;]/div[1]</value>
-      <webElementGuid>75ea4925-8842-44e4-8654-fe1791a17582</webElementGuid>
+      <webElementGuid>11653f1e-e25c-4a40-b268-798eebc70982</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='경고'])[1]/following::div[4]</value>
-      <webElementGuid>f9c4507c-e4ce-453a-8d3f-2fb2ba9f2347</webElementGuid>
+      <webElementGuid>98009669-8850-46fd-b220-1fd16bb68640</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[6]/following::div[9]</value>
-      <webElementGuid>beffde20-e566-4640-b698-599ec77b67e5</webElementGuid>
+      <webElementGuid>1b87b4dc-4dcd-4a4b-807f-0e6dcc1cf9a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::div[1]</value>
-      <webElementGuid>146f4f2c-c77d-4cc9-8747-6c5ef2a25218</webElementGuid>
+      <webElementGuid>757ab444-7055-4968-bf97-70fc5a7430ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='확인'])[1]/preceding::div[1]</value>
-      <webElementGuid>c654709a-c3ac-466f-ba22-d1cf593ac7c0</webElementGuid>
+      <webElementGuid>64729afa-6a45-499a-9f91-575d47a3ff7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='문서에 설정한 서명자 정보와 필드가 초기화돼요. 계속할까요?']/parent::*</value>
-      <webElementGuid>bac01efe-97f4-40e1-a506-5e70b9cffba8</webElementGuid>
+      <webElementGuid>7ad1b27f-db04-414b-b821-aac0de50e3e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div</value>
-      <webElementGuid>287ce3ad-0719-46e6-a4a2-98afae06cc23</webElementGuid>
+      <webElementGuid>54814243-fa25-4e3c-ae57-90232f5e51a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '문서에 설정한 서명자 정보와 필드가 초기화돼요. 계속할까요?' or . = '문서에 설정한 서명자 정보와 필드가 초기화돼요. 계속할까요?')]</value>
-      <webElementGuid>aff989ad-9931-45f2-84df-f5f4d63685ef</webElementGuid>
+      <webElementGuid>116b0445-30da-49ed-8ac9-d81ffe6f9505</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

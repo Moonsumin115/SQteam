@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>canvas</value>
-      <webElementGuid>a992bea9-4292-4f9b-b7dc-5c88d25aeb42</webElementGuid>
+      <webElementGuid>e097e436-cd32-4914-999e-f56ef21a255b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-pdf__Page__canvas</value>
-      <webElementGuid>43fb504c-6f16-4046-a9d8-1c140256e0c1</webElementGuid>
+      <webElementGuid>6e0af126-b336-4e76-9579-adbf91be79db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1606</value>
-      <webElementGuid>4686dcf4-34fc-497d-a811-2368729d81a2</webElementGuid>
+      <webElementGuid>76f3f3c0-c987-4386-a132-36c0b678278f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>2270</value>
-      <webElementGuid>20a94d78-2499-493b-93e5-6ff3d57c1f84</webElementGuid>
+      <webElementGuid>2d5c168d-bb05-4609-b2b7-6554ee33e1fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pageContainer1&quot;)/div[@class=&quot;react-pdf__Page&quot;]/canvas[@class=&quot;react-pdf__Page__canvas&quot;]</value>
-      <webElementGuid>ff392ece-6052-4a68-935b-d02f7e9c4c71</webElementGuid>
+      <webElementGuid>3f5ab239-638d-4f6a-898c-5fda673a5a7e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pageContainer1']/div/canvas</value>
-      <webElementGuid>75c22721-33a9-4c7c-9d35-86cfc724635a</webElementGuid>
+      <webElementGuid>afae996b-a74d-4d67-afd6-7eb75f471b0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//canvas</value>
-      <webElementGuid>360074c0-dd9e-4bb8-b3ef-14d8604118f4</webElementGuid>
+      <webElementGuid>691f9bc2-5528-4d31-975a-c4db6a53c87e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

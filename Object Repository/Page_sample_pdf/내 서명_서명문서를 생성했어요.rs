@@ -10,12 +10,12 @@
          <value>div.styled__Text-sc-1nhdku1-0.jsAyzS</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = '서명 문서를 생성했어요.' or . = '서명 문서를 생성했어요.')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='__next']/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '서명 문서를 생성했어요.' or . = '서명 문서를 생성했어요.')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bcf82427-00bc-4218-b06a-f90ddcabddee</webElementGuid>
+      <webElementGuid>bdce2629-8879-482e-8130-05627e8e9d2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styled__Text-sc-1nhdku1-0 jsAyzS</value>
-      <webElementGuid>78eee962-40b6-45ee-87cb-bf92697f849d</webElementGuid>
+      <webElementGuid>e3b9171b-6ee5-497d-a2af-53dcab9de636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>서명 문서를 생성했어요.</value>
-      <webElementGuid>7845e3aa-4493-4bbb-a2ba-f9c00eb09949</webElementGuid>
+      <webElementGuid>a7d7bbc8-f0e0-471d-a652-c6deeaf10db9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-h80ire&quot;]/div[@class=&quot;MuiSnackbar-root MuiSnackbar-anchorOriginTopCenter css-zppt23&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation6 MuiAlert-root MuiAlert-filledSuccess MuiAlert-filled css-1hwsmrh&quot;]/div[@class=&quot;MuiAlert-message css-wnhfnw&quot;]/div[@class=&quot;styled__Text-sc-1nhdku1-0 jsAyzS&quot;]</value>
-      <webElementGuid>94c5cc92-347b-49a0-a560-82d288b24afb</webElementGuid>
+      <webElementGuid>401f4ea9-a78b-4992-a5d5-bddd71d7ff78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[2]/div</value>
-      <webElementGuid>2eb6ac45-ff06-4d0a-9247-79225d9f52d5</webElementGuid>
+      <webElementGuid>2451660b-5f2d-459b-9b6e-cdda8b398385</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='서명 문서를 생성했어요.']/parent::*</value>
-      <webElementGuid>1448039f-7915-4153-b202-827613d3b47b</webElementGuid>
+      <webElementGuid>c153810b-ae91-4f26-b916-437f424041e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div</value>
-      <webElementGuid>e20b5cfe-5131-4759-afea-b7a53e58def1</webElementGuid>
+      <webElementGuid>7eec68de-3e13-449b-8683-9edc1772e095</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '서명 문서를 생성했어요.' or . = '서명 문서를 생성했어요.')]</value>
-      <webElementGuid>e7e17ff4-22cf-4621-ae64-4e08bfb16ed0</webElementGuid>
+      <webElementGuid>18ab5b4e-d17e-4e86-8d49-8061c67d13b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

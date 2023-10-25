@@ -4,23 +4,21 @@
    <name>서명참여자 추가</name>
    <tag></tag>
    <elementGuidId>c2b4ea20-7006-4d40-933d-ba8df9187e2f</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@xmlns = 'http://www.w3.org/2000/svg']</value>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.MuiBox-root.css-ke3f99 > svg</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@xmlns = 'http://www.w3.org/2000/svg']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>68026ebb-f0e9-46ef-8fe2-9dcf7480b151</webElementGuid>
+      <webElementGuid>81955b3a-8264-4796-85c1-518d2c7bd217</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +37,7 @@
       <name>width</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>a3025e25-4b3c-4695-ab30-5010337c3236</webElementGuid>
+      <webElementGuid>b1f89093-a1f9-43ad-8b7c-8a0a9c83a1ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +45,7 @@
       <name>height</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>d69ca34e-c094-43d5-a9f6-90c4b9a72c76</webElementGuid>
+      <webElementGuid>c77dbe48-e0d7-4a42-bc3a-a8a5bf83dd75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +53,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 25 24</value>
-      <webElementGuid>67340551-559e-4426-9f83-6ae34f70c072</webElementGuid>
+      <webElementGuid>247374d5-3e29-4497-81d0-4f2e832158d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +61,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>93f00280-267b-4b1f-a45b-0817dfebaa83</webElementGuid>
+      <webElementGuid>ff4aed96-5479-4c01-893a-8b232c01bb99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mui-183&quot;)/div[@class=&quot;MuiTooltip-tooltip MuiTooltip-tooltipPlacementTop css-i6gkim&quot;]/div[@class=&quot;styled__IconPanel-sc-5sbb22-0 eExsrU MuiBox-root css-0&quot;]/button[@id=&quot;field_icon_panel_button&quot;]/div[@class=&quot;MuiBox-root css-ke3f99&quot;]/svg[1]</value>
-      <webElementGuid>02203206-3a1b-490f-95ce-4df22e3b0143</webElementGuid>
+      <webElementGuid>ddf60215-3242-4098-993f-6634973fb9df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +77,7 @@
       <name>xmlns:xlink</name>
       <type>Main</type>
       <value>http://www.w3.org/1999/xlink</value>
-      <webElementGuid>74647cf7-f303-4bad-afb2-3a670ba098d5</webElementGuid>
+      <webElementGuid>c795cfd2-267f-4322-ac6c-4d5139be0780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +85,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>640bba0a-b2ed-4d3c-8963-1d40d210f019</webElementGuid>
+      <webElementGuid>de823a67-12be-4873-92b3-cc731ff6b1c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +93,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>2abac8fc-c947-488b-b7d2-aaef978082a6</webElementGuid>
+      <webElementGuid>096561c2-b3ab-4a82-92dc-548a11716be3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +101,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7d27f43c-433b-4cad-ae73-c5c438002583</webElementGuid>
+      <webElementGuid>fb134c68-8422-4c1c-8308-b59b44a77a54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +109,7 @@
       <name>color</name>
       <type>Main</type>
       <value>#333</value>
-      <webElementGuid>10e995db-bf98-440f-8fcb-bc8b9c2ecd1a</webElementGuid>
+      <webElementGuid>3ee229f1-4c3a-44f3-89b4-1dde5c124b64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +117,7 @@
       <name>opacity</name>
       <type>Main</type>
       <value>.6</value>
-      <webElementGuid>6436bbe6-e3c3-45f4-9e98-94dc9034992e</webElementGuid>
+      <webElementGuid>5a9c96c4-6274-4e78-9bde-85b8fee6c793</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,7 +125,7 @@
       <name>version</name>
       <type>Main</type>
       <value>1.2</value>
-      <webElementGuid>e595a2f0-9066-4e46-a21c-d8cb6cad385d</webElementGuid>
+      <webElementGuid>07babdf9-037f-4e16-9e58-4ec0ac37ec2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -135,7 +133,7 @@
       <name>baseProfile</name>
       <type>Main</type>
       <value>tiny</value>
-      <webElementGuid>cca1e615-401c-4d90-b2cc-c9e1d34d5948</webElementGuid>
+      <webElementGuid>63d17059-b00e-4996-9016-13be43056dd1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -143,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 필드 속성 설정'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>0d97e25c-7974-4db3-bf5c-24bc051abd4c</webElementGuid>
+      <webElementGuid>abf67664-7707-4aaf-9913-a7be2dd7ede1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='필드 생성'])[1]/following::*[name()='svg'][9]</value>
-      <webElementGuid>e41c1159-b75b-43c4-9926-b69d75212b92</webElementGuid>
+      <webElementGuid>0f83f30e-7a68-4562-b26c-7168110a492e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='일시:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>5a8c96d2-c7d9-43ac-a3a7-3e17810405df</webElementGuid>
+      <webElementGuid>4ab31c8e-8228-45f4-807a-2a23c2f8b534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 요청자:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>87147fca-fad0-4d70-856c-e0f59287ab9d</webElementGuid>
+      <webElementGuid>4fd8cee2-69c9-4551-a06a-575d4f33e364</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -175,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>9092706b-5b19-4566-8b14-0e17d0c137b4</webElementGuid>
+      <webElementGuid>5f6fecfa-3d32-484f-bd54-27755c150e24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -183,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보 처리방침'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>6804f712-b0b5-4326-a815-aabcf7b00e1e</webElementGuid>
+      <webElementGuid>6a49842a-3cc2-466d-81be-f4caf4f7b3b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -191,7 +189,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='도장 및 서명 이미지'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>7f7520a2-5f98-43b7-8ea1-405d00a42156</webElementGuid>
+      <webElementGuid>1c42e1b5-0d47-4c7e-b4a9-3e64689e8e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -199,7 +197,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>e8baf838-433d-4e34-b6bb-0adc6ccca4d8</webElementGuid>
+      <webElementGuid>433b2bca-cd40-40f6-875f-08d8224d3264</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -207,7 +205,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>2c4fa7c7-c82b-4ce1-ad0f-c8b8c377d4f9</webElementGuid>
+      <webElementGuid>53a743e5-de94-487b-8c91-10c245febd81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -215,7 +213,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/following::*[name()='svg'][2]</value>
-      <webElementGuid>ae2e758b-4199-400f-84f9-2f4d547cb5ac</webElementGuid>
+      <webElementGuid>54c52845-882d-4fae-af45-207ae090f292</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -223,7 +221,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::*[name()='svg'][2]</value>
-      <webElementGuid>7e44be33-b655-4687-a047-31707bd0e0c9</webElementGuid>
+      <webElementGuid>5ef85c31-4f63-4b25-86f9-99602331fc16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -231,7 +229,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='확인'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>dae191fa-38da-4b5f-8907-b7cbd8459c15</webElementGuid>
+      <webElementGuid>c0b35012-a834-4fb2-97e3-b50f144defea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -239,7 +237,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>c2c006f6-8aa4-4bbb-ae48-3b6814103687</webElementGuid>
+      <webElementGuid>68b9ac45-fbe5-4daf-9214-e019fc7d0097</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -247,7 +245,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/following::*[name()='svg'][1]</value>
-      <webElementGuid>3eeb2e9e-35d5-4e40-92bf-7162cdaf673c</webElementGuid>
+      <webElementGuid>d1aded63-8789-478a-830a-69db749e2b0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -255,7 +253,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>b90229aa-a9d1-49f3-b050-b99811ea1a49</webElementGuid>
+      <webElementGuid>40cdee5f-3d20-45b5-b5e8-49b17baa1c7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -263,7 +261,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='확인'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>ed2dda35-1abf-41e8-9763-68f7e47c3881</webElementGuid>
+      <webElementGuid>7849ab38-3798-48d1-8a74-152dd9c50629</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -271,7 +269,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='거부'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>9a40cc17-df90-4817-b8a3-bebf31956277</webElementGuid>
+      <webElementGuid>ee42147b-beb2-475c-baef-efe4496c8115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -279,7 +277,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='sample_pdf'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>c76d83ab-2d06-429c-ab73-d4a431cc51bb</webElementGuid>
+      <webElementGuid>4c22883b-4cc1-454c-b247-cce2624341e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -287,7 +285,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 거부'])[1]//*[name()='svg'][1]</value>
-      <webElementGuid>91cac071-9353-43f1-9d21-a56b2c9c4305</webElementGuid>
+      <webElementGuid>f1a25607-295f-41f3-bed7-6cacb4c2b69d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -295,7 +293,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 참여자 변경 요청'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>8d4eef58-81aa-43b4-b405-76ed4f809433</webElementGuid>
+      <webElementGuid>cbbdb815-7424-43ac-b626-3e4b9382dd46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -303,7 +301,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 보기'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>89cbcff6-2f8f-49a2-8296-5c5cb5445dab</webElementGuid>
+      <webElementGuid>8ae695ef-a006-46d5-b998-918b6f310df4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -311,7 +309,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='삭제'])[1]//*[name()='svg'][1]</value>
-      <webElementGuid>127b468c-387f-4c07-9400-c4beae163724</webElementGuid>
+      <webElementGuid>4390b36c-7cb8-4fd7-96bf-1e06d5a93428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -319,7 +317,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 보기'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>2314b0a3-c420-4abc-b83b-983c27c4bbe8</webElementGuid>
+      <webElementGuid>15112435-d7cd-4fd8-8654-e7358b075522</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -327,7 +325,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='발송 전용 문서로 만들기'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>b8bb090a-ad5e-4a7a-bbbd-972b5d2f5c0d</webElementGuid>
+      <webElementGuid>de8dc862-301d-4e0f-8579-8af3eb248adb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -335,7 +333,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='내 서명 문서로 만들기'])[1]/following::*[name()='svg'][4]</value>
-      <webElementGuid>ac5b7c6c-fd98-45e5-af2b-3f08cda0b2ac</webElementGuid>
+      <webElementGuid>ff219a1f-650b-46d1-9e3d-6cd6d0ec5008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -343,7 +341,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='검토 및 보내기'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>ea08c178-24ce-46e5-984b-7f0ba563a098</webElementGuid>
+      <webElementGuid>d1879b62-0bfe-4128-8789-f266a7b69707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -351,7 +349,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 참여자'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>d7ce51ba-627b-4142-beb6-8059c85eb2ef</webElementGuid>
+      <webElementGuid>bd6ce084-aeeb-4785-b548-7176f1b6b04d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -359,7 +357,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 순서 지정하기'])[1]/following::*[name()='svg'][4]</value>
-      <webElementGuid>f9d791d1-5360-4169-827f-4bbded3b0830</webElementGuid>
+      <webElementGuid>3f3ea479-2116-4e3e-a537-fdce91c5baf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -367,7 +365,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::*[name()='svg'][5]</value>
-      <webElementGuid>edb20e4c-719b-47aa-b146-0c090a4b4b17</webElementGuid>
+      <webElementGuid>527f2806-c1ca-4988-999c-7bc884e605e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -375,7 +373,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='눈금 보이기'])[1]/following::*[name()='svg'][8]</value>
-      <webElementGuid>0c2da9cc-1fe3-4a93-a614-fe5006915432</webElementGuid>
+      <webElementGuid>21064200-7049-4ed7-bfb0-9474cc7afc57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -383,7 +381,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>734d9a64-42df-441c-af34-2b470ba35c44</webElementGuid>
+      <webElementGuid>f0d0ee4f-3f0d-44dc-8df8-1587846d8103</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -391,7 +389,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='계속'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>71cec081-7937-421b-81fe-95c950bbf2ad</webElementGuid>
+      <webElementGuid>c66d450f-b725-4ac5-b94c-cd07b9b9790e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -399,7 +397,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[9]/following::*[name()='svg'][1]</value>
-      <webElementGuid>2a8105b5-3294-430f-ae82-9e0ecc8c5e40</webElementGuid>
+      <webElementGuid>68da4994-5b24-4cff-96bc-3bd2b30a4559</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -407,7 +405,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='크기 맞춤'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>28a2b29d-422c-4e8b-986e-55d0214b6e59</webElementGuid>
+      <webElementGuid>b603a19a-a9ab-49af-83fb-c2cf015b5496</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -415,7 +413,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='시작하기'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>b3139bff-d5b4-4dd7-a3a4-31b9a9de81f9</webElementGuid>
+      <webElementGuid>af3e0eb0-d7de-4f5e-a2c4-85ce6ea910f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -423,7 +421,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='hsignTest022'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>663ef3ca-38aa-400c-8d72-53b601493e5b</webElementGuid>
+      <webElementGuid>f65a1bbb-7370-4f7c-92ad-02596d1d1fb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -431,7 +429,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='받은 문서'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>10b9b96c-b7b6-4de0-9e52-fa1141ad4ea0</webElementGuid>
+      <webElementGuid>082cee5e-8787-4c96-84e3-3dcb7d99e538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -439,6 +437,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='문서함'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>22daab98-97b9-48e4-b952-99169e627c9e</webElementGuid>
+      <webElementGuid>8d596240-551c-448e-8fb8-b7923f8fa68a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

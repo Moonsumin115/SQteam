@@ -92,8 +92,8 @@ WebUI.doubleClick(findTestObject('Object Repository/Page_/PDF 캔버스'))
 '하단바 넣기 (캔버스 빠져나오기)'
 WebUI.click(findTestObject('Object Repository/Page_/하단프레임'))
 
-'발송전용문서로 만들기 체크박스 선택'
-WebUI.click(findTestObject('Object Repository/Page_/서명순서 지정하기'))
+'발송전용문서로 만들기'
+WebUI.click(findTestObject('Object Repository/Page_/발송전용문서로 만들기 체크'))
 
 '확인 버튼 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/서명참여자추가 완료 확인'))

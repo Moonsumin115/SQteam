@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>체크박스 선택</name>
+   <name>p_</name>
    <tag></tag>
-   <elementGuidId>da1ab08f-ac4e-413e-b8b0-ee868b556448</elementGuidId>
+   <elementGuidId>3e4f8811-c214-411d-95b0-516f57cc2397</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='signFiled']/div[5]</value>
+         <value>//div[@id='signFiled']/div[5]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,16 +21,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>1c2b5732-43d4-4575-9210-9f8aed2c5c74</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>styled__Item-sc-fsqwxz-2 guIejy</value>
-      <webElementGuid>707638d2-e52b-496e-b368-8fae264b9f2b</webElementGuid>
+      <value>p</value>
+      <webElementGuid>c62079a1-c60b-4d80-89f4-17317c95e7f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,70 +30,78 @@
       <name>text</name>
       <type>Main</type>
       <value>체크 박스</value>
-      <webElementGuid>86e3b01a-7c32-4de1-96fa-0cce454e760a</webElementGuid>
+      <webElementGuid>99cfeb2d-c374-4601-83e3-8b110998779c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;signFiled&quot;)/div[@class=&quot;styled__Item-sc-fsqwxz-2 guIejy&quot;]</value>
-      <webElementGuid>3591a286-c773-4c89-9254-7f7e3c5228c7</webElementGuid>
+      <value>id(&quot;signFiled&quot;)/div[@class=&quot;styled__Item-sc-fsqwxz-2 guIejy&quot;]/p[1]</value>
+      <webElementGuid>b2197d38-4be1-4435-bfec-0cb62e771315</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='signFiled']/div[5]</value>
-      <webElementGuid>f0df87d3-9f83-4a42-9dde-bbbda49742a6</webElementGuid>
+      <value>//div[@id='signFiled']/div[5]/p</value>
+      <webElementGuid>2855415d-9ce4-4a35-b039-ce5e6747dd98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[13]</value>
-      <webElementGuid>3395dc07-e68d-4e6c-b338-f459f084b407</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::p[5]</value>
+      <webElementGuid>855aecbf-98aa-4248-a948-21fa22c6908e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[22]</value>
-      <webElementGuid>b2188a84-9259-40eb-8305-70ed4c5e80b7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::p[5]</value>
+      <webElementGuid>959a3f0a-cda4-42ef-bc32-6a7404a1a978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/preceding::div[10]</value>
-      <webElementGuid>53704c97-e5f4-4bad-b913-e697f22030d7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/preceding::p[5]</value>
+      <webElementGuid>70ea46b0-a716-4b5e-9a38-3a7275c3e412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 순서 지정하기'])[1]/preceding::div[15]</value>
-      <webElementGuid>af0500d5-409e-4ca4-868f-5acaf0f12d54</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 순서 지정하기'])[1]/preceding::p[5]</value>
+      <webElementGuid>e989ef92-361d-48bf-a8bf-209f0babe984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='체크 박스']/parent::*</value>
+      <webElementGuid>73f3e6ad-3259-4915-9cc3-09195539cd2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]</value>
-      <webElementGuid>bb415208-8cef-4b5b-8acf-31c0864ddd16</webElementGuid>
+      <value>//div[5]/p</value>
+      <webElementGuid>1fa82211-2ae7-47e0-9942-5bdbf15ae446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '체크 박스' or . = '체크 박스')]</value>
-      <webElementGuid>b8da261a-979e-4137-bd0b-0724417d8c65</webElementGuid>
+      <value>//p[(text() = '체크 박스' or . = '체크 박스')]</value>
+      <webElementGuid>29085ce6-b054-49cc-b98f-28d0e22e42ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

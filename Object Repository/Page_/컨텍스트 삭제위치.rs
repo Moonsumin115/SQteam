@@ -4,26 +4,24 @@
    <name>컨텍스트 삭제위치</name>
    <tag></tag>
    <elementGuidId>3718b585-b842-456c-82a5-59a981d89300</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.moveable-line.moveable-direction.moveable-w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageContainer1']/div[3]/div[6]</value>
+      </entry>
       <entry>
          <key>BASIC</key>
          <value>id(&quot;task-more-menu-36961&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiMenu-paper MuiPopover-paper MuiMenu-paper css-n6fbq3&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt&quot;]/div[@class=&quot;MuiBox-root css-ih0h00&quot;][count(. | //*[@class = 'MuiBox-root css-ih0h00' and @aria-hidden = 'true']) = count(//*[@class = 'MuiBox-root css-ih0h00' and @aria-hidden = 'true'])]</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value>div.MuiBox-root.css-ih0h00</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='task-more-menu-36961']/div[3]/ul/li[5]/div</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>02ca37af-d9c7-4fd2-bc12-f923a669b612</webElementGuid>
+      <webElementGuid>bcf6b8d3-7727-4967-be5e-46ec4906d10f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiBox-root css-ih0h00</value>
-      <webElementGuid>5fbde800-0026-4d97-bd9f-fb2c7c61cbe1</webElementGuid>
+      <value>moveable-line moveable-direction moveable-w</value>
+      <webElementGuid>e532cbf1-3116-498f-a25e-82cdf8b209a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;task-more-menu-36961&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiMenu-paper MuiPopover-paper MuiMenu-paper css-n6fbq3&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt&quot;]/div[@class=&quot;MuiBox-root css-ih0h00&quot;]</value>
-      <webElementGuid>2352c918-2895-47fc-893d-8f3c6ad5bd5c</webElementGuid>
+      <value>id(&quot;pageContainer1&quot;)/div[@class=&quot;moveable-control-box   holder-JackRabbit_4a371400-72fd-11ee-8042-0f84e316391d Edit_moveable__ZDOSq rCSwtyrwf&quot;]/div[@class=&quot;moveable-line moveable-direction moveable-w&quot;]</value>
+      <webElementGuid>595757a5-248e-40a8-a569-49ddf41c3564</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,8 +55,48 @@
       <value>true</value>
       <webElementGuid>a8d49f50-6575-491e-ac14-9b007407ab43</webElementGuid>
    </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rotation</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>15750550-2223-480d-82e5-e5ef38e52a5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-line-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>b4a0fdc8-877a-448d-b7b4-bbafa6978c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-direction</name>
+      <type>Main</type>
+      <value>w</value>
+      <webElementGuid>23aacf57-3200-4057-8691-578f48da62ef</webElementGuid>
+   </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageContainer1']/div[3]/div[6]</value>
+      <webElementGuid>23d7d6ce-a740-4511-b1b9-c391b0ed256e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]</value>
+      <webElementGuid>a474739a-a813-49b6-b023-96f939f3a0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
