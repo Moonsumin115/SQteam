@@ -75,6 +75,8 @@ WebUI.click(findTestObject('Object Repository/Page_/계속 버튼'))
 '단일 발송 버튼 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/단일 발송 버튼'))
 
+WebUI.delay(2)
+
 '서명거부 선택'
 WebUI.click(findTestObject('Object Repository/Page_/서명순서 지정하기'))
 

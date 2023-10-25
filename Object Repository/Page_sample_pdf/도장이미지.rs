@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fe182842-ff36-4fc8-b124-82d5dd7a2026</webElementGuid>
+      <webElementGuid>d5d825cb-6350-463f-b7d2-2fb283882bce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>245</value>
-      <webElementGuid>8aadfccc-5554-4feb-aac0-f73085450919</webElementGuid>
+      <webElementGuid>1114ea8e-25d2-4fda-acc2-dbcbf79a9026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styled__StampWrapper-sc-1cpb15e-2 iwDviH</value>
-      <webElementGuid>9c99535c-1772-49a4-9253-7eab2e183416</webElementGuid>
+      <webElementGuid>0030bf12-9017-47fc-b52e-bc0e10979adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;245&quot;)</value>
-      <webElementGuid>9af2cfa8-85b1-4338-a011-d92245908eb8</webElementGuid>
+      <webElementGuid>a53f9295-83a9-445d-8e5c-7f3031a64345</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='245']</value>
-      <webElementGuid>51fecd7f-a8be-4a64-99b3-85b9ef51d258</webElementGuid>
+      <webElementGuid>43ea77ca-faa4-48eb-957d-e782c18b9512</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='도장 및 서명 이미지'])[1]/following::div[5]</value>
-      <webElementGuid>c9ed14e4-245a-4e04-9064-797df15becf7</webElementGuid>
+      <webElementGuid>6ddee9bc-c2b9-48bd-8efa-b395b4a3a74e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', '245', '&quot;', ')')])[1]/following::div[14]</value>
-      <webElementGuid>d04c932b-354d-42a4-a04d-ab0085dbf965</webElementGuid>
+      <webElementGuid>6422cee8-f0a1-4f2c-b00c-b6e5efb319fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::div[9]</value>
-      <webElementGuid>ac7b1788-5597-43e2-bcba-f8ff54a433ae</webElementGuid>
+      <webElementGuid>6eb1a1db-c355-41a5-a031-7fa1d4fa8595</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/preceding::div[9]</value>
-      <webElementGuid>0ef59184-d9ae-4358-810f-3c9f2bcc6980</webElementGuid>
+      <webElementGuid>3ff8beab-5ef7-40d8-bfbb-cd8a375673a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div/div/div</value>
-      <webElementGuid>b68ca7cb-f1bc-453e-b340-75374ade88fb</webElementGuid>
+      <webElementGuid>16d612cd-dc9d-4d68-9f24-3739a3f0b93c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = '245']</value>
-      <webElementGuid>1f9228ca-b5a4-439d-98c6-d588b699ea97</webElementGuid>
+      <webElementGuid>69f79d62-6937-465c-a152-31262d4ca2eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

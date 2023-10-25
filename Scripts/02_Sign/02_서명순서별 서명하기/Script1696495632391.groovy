@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Object Repository/Page_/프로필 아이콘'))
 '로그아웃 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/로그아웃 버튼'))
 
-WebUI.navigateToUrl('https://accounts.stg.hancom.com/signout?redirect=https://www.stg.hancomsign.com')
+WebUI.navigateToUrl('https://www.stg.hancomsign.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_/로그인 버튼'))
 
@@ -110,5 +110,52 @@ WebUI.click(findTestObject('Object Repository/Page_/프로필 아이콘'))
 
 WebUI.click(findTestObject('Object Repository/Page_/로그아웃 버튼'))
 
+WebUI.navigateToUrl('https://www.stg.hancomsign.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_/로그인 버튼'))
+
+'계정 입력창'
+WebUI.setText(findTestObject('Object Repository/Page_/계정 입력'), 'signtest003@tech-mail.net')
+
+'패스워드입력창'
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_/비밀번호 입력'), 'gkscLE5EWIDNZE8UFKmZmQ==')
+
+'로그인 버튼 클릭'
+WebUI.click(findTestObject('Object Repository/Page_/계정비밀번호 로그인 버튼'))
+
+WebUI.delay(2)
+
+'알림 공지 닫기'
+WebUI.click(findTestObject('Object Repository/Page_(1)/알림공지닫기button'))
+
+'문서목록에 추가되었는지 체크포인트'
+WebUI.verifyElementText(findTestObject('Object Repository/Page_(1)/문서목록항목'), 'sample_pdf')
+
+'서명할 문서 실행'
+WebUI.click(findTestObject('Object Repository/Page_(1)/문서목록항목'))
+
+WebUI.delay(2)
+
+'입력시작 버튼 클릭'
+WebUI.click(findTestObject('Object Repository/Page_sample_pdf/입력시작버튼'))
+
+'입력완료 버튼 클릭'
+WebUI.click(findTestObject('Object Repository/Page_sample_pdf/입력완료 버튼'))
+
+'서명 확인 클릭'
+WebUI.click(findTestObject('Object Repository/Page_sample_pdf/서명 확인 버튼'))
+
+'\'서명한 문서를 보냈어요.\' 리소스 체크포인트'
+WebUI.verifyElementText(findTestObject('Object Repository/Page_sample_pdf/서명한 문서 확인 체크포인트 리소스'), '서명한 문서를 보냈어요.')
+
+'문서함으로 이동'
+WebUI.click(findTestObject('Object Repository/Page_sample_pdf/문서함으로 이동 버튼'))
+
 WebUI.navigateToUrl('https://my.stg.hancomsign.com/tasks')
+
+WebUI.click(findTestObject('Object Repository/Page_/프로필 아이콘'))
+
+WebUI.click(findTestObject('Object Repository/Page_/로그아웃 버튼'))
+
+WebUI.closeBrowser()
 

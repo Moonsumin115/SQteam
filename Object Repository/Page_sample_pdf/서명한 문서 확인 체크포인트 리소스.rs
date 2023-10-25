@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>45a60e6f-c769-408a-b274-38143e880289</webElementGuid>
+      <webElementGuid>8f1d4883-cfcd-43b8-a2ec-3e067549cc92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-380ovo</value>
-      <webElementGuid>f7eb5a9b-638b-4864-8fca-64a5bb8878cf</webElementGuid>
+      <webElementGuid>bd28c22f-bc51-4414-a652-7d81572c50f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>서명한 문서를 보냈어요.</value>
-      <webElementGuid>2df919bd-52b2-4332-a339-830408b411eb</webElementGuid>
+      <webElementGuid>628829e3-45c8-4c1b-865d-2d5ed96d3c49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-h80ire&quot;]/div[@class=&quot;MuiBox-root css-1686rbf&quot;]/div[@class=&quot;MuiBox-root css-watpwd&quot;]/div[@class=&quot;MuiBox-root css-so6v13&quot;]/div[@class=&quot;MuiBox-root css-380ovo&quot;]</value>
-      <webElementGuid>2135f819-7fb2-4fd6-9e8b-d6d7e8731c81</webElementGuid>
+      <webElementGuid>f4fe7ee1-b9ea-421c-b53b-f203c520ede2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/div[2]</value>
-      <webElementGuid>34b9eb34-ee48-4acd-bbf5-d53e276c9d5c</webElementGuid>
+      <webElementGuid>2116d0e2-d28a-42fd-acba-9100b2a03941</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='문서함'])[1]/preceding::div[1]</value>
-      <webElementGuid>165b407a-a822-412b-b49d-6ca6f25f056d</webElementGuid>
+      <webElementGuid>29a06259-0d9b-4f64-af3f-716352280aa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='서명한 문서를 보냈어요.']/parent::*</value>
-      <webElementGuid>456be0fa-4978-4586-96ad-87f24613e3aa</webElementGuid>
+      <webElementGuid>8e0cf337-1217-4ee3-a472-800aa8d08fce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]</value>
-      <webElementGuid>b3a4962b-9a89-47cd-83f3-99cbe96b6a6b</webElementGuid>
+      <webElementGuid>5df4336c-cb77-4ba7-804e-3f7bc0ead843</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '서명한 문서를 보냈어요.' or . = '서명한 문서를 보냈어요.')]</value>
-      <webElementGuid>8e82dd7c-bdfa-4898-9e85-26c701c58fc9</webElementGuid>
+      <webElementGuid>bb7e72dd-233d-44f3-82dd-4513a875e6c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

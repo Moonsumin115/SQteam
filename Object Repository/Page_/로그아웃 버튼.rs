@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>62592ecd-f3d9-438a-ae0c-9703f867df99</webElementGuid>
+      <webElementGuid>51fc923c-290b-46fd-8759-988c3ea5aae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt</value>
-      <webElementGuid>c7321d71-4f43-4dbc-846c-3d6d11697f22</webElementGuid>
+      <webElementGuid>9e9293b5-ed73-42c4-8729-335dc2305af3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>be512b79-2d63-4219-b53d-167eb93003d1</webElementGuid>
+      <webElementGuid>84fbce6f-4d6d-47c7-8207-5540564b6b17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>d33a30c5-ce44-4a00-8707-273bafef9444</webElementGuid>
+      <webElementGuid>2012ca87-5d0a-430f-a70f-05f2bf4340da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>로그아웃</value>
-      <webElementGuid>5015a65d-2ef0-47fc-bc99-68acc4ce4185</webElementGuid>
+      <webElementGuid>6ab41f00-851d-4d6a-9403-a11581f590b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;avatar-positioned-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiMenu-paper MuiPopover-paper MuiMenu-paper css-14e70hx&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt&quot;]</value>
-      <webElementGuid>95cf37e7-7ce9-4f98-9ec8-9b81c8a1a020</webElementGuid>
+      <webElementGuid>ff38148d-742f-45b7-8eef-13001f35e902</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='avatar-positioned-menu']/div[3]/ul/li[2]</value>
-      <webElementGuid>b1e1545f-5905-4421-b6f7-9a6443034e74</webElementGuid>
+      <webElementGuid>62eb54fb-ff71-4cee-9126-addc6c4fe731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='설정'])[2]/following::li[1]</value>
-      <webElementGuid>449d06b3-89fd-481b-b614-1d5b73d3509e</webElementGuid>
+      <webElementGuid>31ea60a5-f1c4-4977-8ffa-d0efb3681cb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='이 광고 보지 않기'])[1]/following::li[2]</value>
-      <webElementGuid>6ae0e7f0-f12c-4c7f-bd52-428f8b97702c</webElementGuid>
+      <webElementGuid>e946ad32-569c-4ce3-9977-f309b022059f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='로그아웃']/parent::*</value>
-      <webElementGuid>61b7da0d-b367-4273-af8b-652a77084575</webElementGuid>
+      <webElementGuid>e1c948c0-bfca-4f73-873a-0682dba3ea5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/ul/li[2]</value>
-      <webElementGuid>4db467c3-77fa-45a1-b1ef-3c123bd467b4</webElementGuid>
+      <webElementGuid>97a55b03-4936-4c60-a7cc-0013d59a06a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = '로그아웃' or . = '로그아웃')]</value>
-      <webElementGuid>d6433a44-a655-4835-b943-fdd8f94738a5</webElementGuid>
+      <webElementGuid>c548653d-00e0-48e5-b509-899052206c93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]</value>
-      <webElementGuid>cc512540-f705-424e-859a-a3fb6efa5188</webElementGuid>
+      <webElementGuid>257735d8-e5ab-4d28-8983-7fd78814e116</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
