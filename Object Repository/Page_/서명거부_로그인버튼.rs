@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>로그인 버튼</name>
+   <name>서명거부_로그인버튼</name>
    <tag></tag>
-   <elementGuidId>ce7e8d4d-e298-4447-9ac7-95d4241416cb</elementGuidId>
+   <elementGuidId>9bfc79dc-b847-4f7a-aef4-615888b6efe0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1b848e09-e6f3-43b4-b5b5-ad64e392b1a8</webElementGuid>
+      <webElementGuid>791b84c4-924a-4250-85cc-418d5724cb9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://my.stg.hancomsign.com/login.html</value>
-      <webElementGuid>46c47262-0e4d-46fb-987e-c1daaa138980</webElementGuid>
+      <webElementGuid>8048abb1-b681-4c2f-a206-a5a45c7c1e34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button--primary</value>
-      <webElementGuid>9be09c96-105d-44d6-8e53-f5e5f4deb10d</webElementGuid>
+      <webElementGuid>ba74887e-da41-404c-bcae-ab519d1362e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>cd84134e-47fa-4745-9e8d-b247ab6b24c7</webElementGuid>
+      <webElementGuid>3952f393-8b11-4653-aad2-3995a6dee9b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>로그인</value>
-      <webElementGuid>0ac05456-1d3c-411d-9976-cd7801b3c3f9</webElementGuid>
+      <webElementGuid>8b102313-5e0b-4dc5-bfe4-285ed38801af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;hancomsign_login&quot;)/a[@class=&quot;button--primary&quot;]</value>
-      <webElementGuid>503b9091-28fc-4d8c-af95-958497b09fa5</webElementGuid>
+      <webElementGuid>bf469e20-8c43-4150-861c-cc1e0efeffd3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='hancomsign_login']/a</value>
-      <webElementGuid>03ce3ef9-3062-4f19-970e-191856154899</webElementGuid>
+      <webElementGuid>74a1c0a6-3473-4f04-9273-f336d3ae6d05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'로그인')]</value>
-      <webElementGuid>1030afcc-edc3-42e6-895b-ad718776fd62</webElementGuid>
+      <webElementGuid>1a1216a5-bac2-4589-9065-867cb0090b88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='시작하기'])[1]/following::a[1]</value>
-      <webElementGuid>f30f0060-300a-4a1c-aa82-ed27e6371c50</webElementGuid>
+      <webElementGuid>ab9db92c-4087-4ead-87e9-0480d7cbae94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::a[2]</value>
-      <webElementGuid>f684ef01-b064-45b6-8e2e-0d370498eaf3</webElementGuid>
+      <webElementGuid>f1be060d-ec4a-4642-ae90-2e1cbe9eea76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'hancomsign_login', '&quot;', ')/a[@class=', '&quot;', 'button--primary', '&quot;', ']')])[1]/preceding::a[1]</value>
-      <webElementGuid>ccc2850a-31e6-468f-a147-889bb328bc63</webElementGuid>
+      <webElementGuid>d1f66524-6d75-4d7a-8250-65654c9c8ef6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='로그인']/parent::*</value>
-      <webElementGuid>cec594bb-950b-43af-b256-ed8d0edba4a3</webElementGuid>
+      <webElementGuid>489443de-4f57-43ea-a2ca-da85496e8279</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://my.stg.hancomsign.com/login.html')]</value>
-      <webElementGuid>4d6f06fc-7f05-464c-be40-40f071f39a9e</webElementGuid>
+      <webElementGuid>e08d72e3-2340-4f86-a8b7-416d527c2f74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a</value>
-      <webElementGuid>f0c1c0eb-294e-477b-a5e9-69fc3e8d5be4</webElementGuid>
+      <webElementGuid>1d1da012-733a-44a6-a300-61abaf4593d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://my.stg.hancomsign.com/login.html' and (text() = '로그인' or . = '로그인')]</value>
-      <webElementGuid>c0ec2915-0faf-431b-8c22-781607e3b318</webElementGuid>
+      <webElementGuid>3a05d971-a5d4-455d-8e91-de111d5691cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

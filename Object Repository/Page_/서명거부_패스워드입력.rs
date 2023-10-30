@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__mui-162</name>
+   <name>서명거부_패스워드입력</name>
    <tag></tag>
-   <elementGuidId>7800d7f3-2c99-4e73-8986-8f695da3f6a4</elementGuidId>
+   <elementGuidId>f6b12d63-fd66-48b4-a3e4-c0055226065c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mui-162</value>
+         <value>#password</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mui-162']</value>
+         <value>//input[@id='password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b8b13254-f3d2-4fa1-ba8e-4adbb1c841ff</webElementGuid>
+      <webElementGuid>b9f57772-e990-4c73-8b22-08a8b7e0a190</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,86 +30,102 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>88c9c6ef-ffab-4861-8b13-e5a4d6d8228a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>김한컴</value>
-      <webElementGuid>760f09f0-d86a-4ed1-bb0f-2a6fe7538c51</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>da7e7669-8f30-4e96-83c4-d994666cbb21</webElementGuid>
+      <webElementGuid>12e4b97d-d876-4d70-aef4-395d0b1bb311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-zrzwyc</value>
-      <webElementGuid>a31ee7b2-c7b8-4d6b-8242-413c04b82cd1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>이은지</value>
-      <webElementGuid>348fa45f-f997-4393-9b1c-20be72fc90b9</webElementGuid>
+      <value>off</value>
+      <webElementGuid>5cd78b2a-1e9e-48b1-b116-a4b115948a52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>mui-162</value>
-      <webElementGuid>9f6e21d6-ce9c-4977-a784-fdca31b7e3b4</webElementGuid>
+      <value>password</value>
+      <webElementGuid>a7225852-7e19-4c5b-b586-b27863f06a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>485368f7-97dd-413b-8158-396e80e83170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>비밀번호</value>
+      <webElementGuid>b8e362e6-a073-4bd6-a724-9e56a6f09b97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>247e3639-8f5e-46c3-9531-a1f85ebc9e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd css-mnn31</value>
+      <webElementGuid>cd51a72d-7ad9-4340-8e6e-0dd8adf16c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>hsignTest001</value>
+      <webElementGuid>3c655ec7-9273-435b-993c-87cd6c504d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mui-162&quot;)</value>
-      <webElementGuid>669f045c-d914-4f39-a174-75208d01baec</webElementGuid>
+      <value>id(&quot;password&quot;)</value>
+      <webElementGuid>042dbcf3-b7e6-469d-a265-264f7c8bcdae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mui-162']</value>
-      <webElementGuid>8cd0efb8-143c-4362-b17a-18963126f9cd</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>d877b02e-3f9f-4bb3-8f8e-cef532251e5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='create_left_panel']/div[2]/div[2]/div[3]/div[2]/div/div/div/input</value>
-      <webElementGuid>ca16a895-0cc5-4f90-bd36-eb531c075467</webElementGuid>
+      <value>//div[@id='root']/div[2]/div/main/form/div[2]/div/div/input</value>
+      <webElementGuid>bb6378ea-2bc0-4719-9f80-60f3fbcd321f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div[2]/div[3]/div[2]/div/div/div/input</value>
-      <webElementGuid>6f27967d-9619-4622-998f-2bf67562da15</webElementGuid>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>820d743f-e76d-4fd7-9183-abeeb8a387c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = '김한컴' and @type = 'text' and @id = 'mui-162']</value>
-      <webElementGuid>e5114e34-d7b8-4726-bcdd-4a95423f3e5e</webElementGuid>
+      <value>//input[@id = 'password' and @name = 'password' and @placeholder = '비밀번호' and @type = 'password']</value>
+      <webElementGuid>6ac85ac2-9084-43a0-b26a-b67356011810</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

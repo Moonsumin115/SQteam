@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b31f38b1-664a-4e02-bd9d-397eda3faec7</webElementGuid>
+      <webElementGuid>1d6517ab-5ccf-497e-856f-be29e972bc48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Assign-Fields-Edit-GetSignatures</value>
-      <webElementGuid>466e2927-8964-4f43-a145-8a6d8b226bc1</webElementGuid>
+      <webElementGuid>bb399619-dcac-45db-b954-520998053637</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>styledCreate__BtnEdit-sc-1e5ee0j-3 eFbBUR</value>
-      <webElementGuid>928171a9-d5e1-457e-b887-edb397a77eea</webElementGuid>
+      <webElementGuid>df3e5dea-9821-4fbd-9c28-584403bf57cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>편집</value>
-      <webElementGuid>2f7162e7-6135-4c60-8c1f-b85bfc57f9ff</webElementGuid>
+      <webElementGuid>1b268a66-eb52-4ab3-b746-4293029562dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Assign-Fields-Edit-GetSignatures&quot;)</value>
-      <webElementGuid>67c44cf4-55d2-41ba-8927-bf187b393081</webElementGuid>
+      <webElementGuid>7cb80ca6-d340-43c0-b03d-c4c0597f8797</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='Assign-Fields-Edit-GetSignatures']</value>
-      <webElementGuid>eeffe30f-b407-47b5-9300-794439468938</webElementGuid>
+      <webElementGuid>e2bc313e-248f-4ad9-aa16-481bf391c8ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='create_left_panel']/div[2]/div/div</value>
-      <webElementGuid>e4630f12-1fd4-4b1a-8789-035d9aa25bf6</webElementGuid>
+      <webElementGuid>2ae248a7-3de7-41bb-86f4-3fb4ba24ba43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='계속'])[1]/following::div[10]</value>
-      <webElementGuid>ad3432ff-15ac-4e1e-a662-92c186056d0b</webElementGuid>
+      <webElementGuid>044d886d-94bf-4509-bc39-f6249a743779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::div[3]</value>
-      <webElementGuid>47d3733e-319e-42ce-99ea-fb63b1c2e9aa</webElementGuid>
+      <webElementGuid>69330a9c-1dd0-4142-8156-418325e44cf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::div[31]</value>
-      <webElementGuid>d238f362-2465-44e3-bf7f-ce48c9ba5525</webElementGuid>
+      <webElementGuid>8f82644c-34e0-42c5-8169-ba874bbc27b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='편집']/parent::*</value>
-      <webElementGuid>ed3eb64d-294a-4c50-b5f4-f7c77e0e14e0</webElementGuid>
+      <webElementGuid>381e4470-2f2b-4c55-be1f-920d8c4fccb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div[2]/div/div</value>
-      <webElementGuid>e5f0a535-80d2-4071-bab2-d97ab8d53782</webElementGuid>
+      <webElementGuid>3ce98448-fb68-4c4f-a36f-91182214b287</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'Assign-Fields-Edit-GetSignatures' and (text() = '편집' or . = '편집')]</value>
-      <webElementGuid>77ef5577-f4e7-4a03-a693-761760a103f4</webElementGuid>
+      <webElementGuid>edf25667-410c-469b-836d-1beaa912908e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

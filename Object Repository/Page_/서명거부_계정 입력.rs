@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__mui-145</name>
+   <name>서명거부_계정 입력</name>
    <tag></tag>
-   <elementGuidId>09432e8e-ccfa-46aa-8d1e-443b3caf0490</elementGuidId>
+   <elementGuidId>7cda1ed4-56a3-424e-b110-6c94d006f3e8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mui-145</value>
+         <value>#email</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mui-145']</value>
+         <value>//input[@id='email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b7aabb74-d892-481c-a00f-20d8580510d9</webElementGuid>
+      <webElementGuid>78f3aa69-4ccc-43d3-bc22-19063d1e22d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,31 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>241bcae8-66a8-4295-9da4-17d61f50273e</webElementGuid>
+      <webElementGuid>78b057e1-6b7a-4b5a-8032-c70753db2d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>8d4444f3-dda0-4736-8f07-fb55353a0e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>75ea1989-30cd-44e8-94d1-1ac0efc6a0dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>김한컴</value>
-      <webElementGuid>e51787ce-6ab3-4ef8-9d26-59287d4db4d7</webElementGuid>
+      <value>이메일</value>
+      <webElementGuid>28645f8a-77c7-4bcf-bd5f-3d595b7c3dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,62 +62,54 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9a821da8-b8b3-46d3-9b2c-26e40d3793b7</webElementGuid>
+      <webElementGuid>635380cf-d755-435d-bac2-82530d3f101c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-zrzwyc</value>
-      <webElementGuid>b7db9946-3c40-4733-bbc5-4f2ef4924d03</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>mui-145</value>
-      <webElementGuid>73c780a5-2e7d-4447-b8b2-d26d3b64dbed</webElementGuid>
+      <value>MuiInputBase-input MuiInput-input css-mnn31</value>
+      <webElementGuid>f0d6aeb1-7b84-48ff-96a1-7e8ea9474340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mui-145&quot;)</value>
-      <webElementGuid>ad4e03aa-65c7-45c6-a205-47fa3320c9b7</webElementGuid>
+      <value>id(&quot;email&quot;)</value>
+      <webElementGuid>ff8ec4d4-f120-4a4c-85e5-722a2f3035dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mui-145']</value>
-      <webElementGuid>84b149b2-73a1-473f-949a-349d4c719a39</webElementGuid>
+      <value>//input[@id='email']</value>
+      <webElementGuid>d3532773-ba7f-445a-b26a-56a6d991cdee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='create_left_panel']/div[2]/div[3]/div[2]/div/div/div/input</value>
-      <webElementGuid>faaa6281-e017-4e42-9fa8-b23235fefb1a</webElementGuid>
+      <value>//div[@id='root']/div[2]/div/main/form/div/div/div/input</value>
+      <webElementGuid>f27171c1-fc11-4941-bf64-add5d4ab0f15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div/div/div/input</value>
-      <webElementGuid>807735a8-3fc8-408d-9bc9-7406e75c4bd3</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>70bc88b3-35c6-4ace-aef1-d8925935eb78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = '김한컴' and @type = 'text' and @id = 'mui-145']</value>
-      <webElementGuid>31594397-e4dc-42d7-9aed-0961a736721e</webElementGuid>
+      <value>//input[@id = 'email' and @name = 'email' and @placeholder = '이메일' and @type = 'text']</value>
+      <webElementGuid>466af0de-4480-49fc-8255-4b89ec53830a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

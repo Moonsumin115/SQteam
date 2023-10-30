@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>10ad5672-9d54-40d1-9742-6356ffb6db83</webElementGuid>
+      <webElementGuid>943a0d5c-e758-4370-8692-5d4a421d524b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>a52581da-da1d-4af4-8fad-2949a8fbfed3</webElementGuid>
+      <webElementGuid>a6d58539-c247-4b03-94d8-c14e36c85e32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>dcb93681-230b-4e7a-b0a2-d28d9f9cbb32</webElementGuid>
+      <webElementGuid>039bafc5-d8d0-4584-98cd-f613d475def1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c0b99b7e-70ce-42a3-b654-375d8c52844a</webElementGuid>
+      <webElementGuid>d8ee9354-8f7c-4749-b6dd-e3f0b76c3479</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>version</name>
       <type>Main</type>
       <value>1.2</value>
-      <webElementGuid>e206f735-059a-4178-8785-59e9f789dc6b</webElementGuid>
+      <webElementGuid>a5cf536a-b542-4c88-9e9f-6e550c3ce293</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>baseProfile</name>
       <type>Main</type>
       <value>tiny</value>
-      <webElementGuid>d50ee4ec-61de-4543-94f5-fa0aec6e5e3b</webElementGuid>
+      <webElementGuid>e891f77e-fb27-4b77-9b15-3ccc16c36e46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>9d6c8272-257e-471d-8494-c81493a1241d</webElementGuid>
+      <webElementGuid>c06004ba-a393-4374-b2c0-4380f2791aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>color</name>
       <type>Main</type>
       <value>#333</value>
-      <webElementGuid>65b6567c-25bd-42a2-a8ed-3c0c09f3a97b</webElementGuid>
+      <webElementGuid>4b407e62-5abd-4c69-aab7-7bec4b723a3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>opacity</name>
       <type>Main</type>
       <value>.6</value>
-      <webElementGuid>658c7b78-e4bd-4c86-8531-a3415c52d2a6</webElementGuid>
+      <webElementGuid>6daaf08b-9911-46ce-9860-266af9009495</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>height</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>3f6025aa-ead2-4adb-88d3-09884f0f4cad</webElementGuid>
+      <webElementGuid>0ee69a65-7d47-484e-96b1-801c9dbded02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>width</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>abd96bb6-e5a5-4041-90f2-ec5d310562e1</webElementGuid>
+      <webElementGuid>b2b322cb-f204-44b7-ac55-dfcfe1ff7a56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>57caeb62-e885-4e81-8eb2-4092b16f1b90</webElementGuid>
+      <webElementGuid>5a7118ed-f860-4fc9-995e-b8ba279c28e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;task-more-box-36978&quot;)/div[@class=&quot;MuiBox-root css-1of0ype&quot;]/svg[1]</value>
-      <webElementGuid>8fff0232-6c12-456f-9ceb-97ede97b2260</webElementGuid>
+      <webElementGuid>5ec11ddd-9497-4e59-9031-e327429208da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xmlns:xlink</name>
       <type>Main</type>
       <value>http://www.w3.org/1999/xlink</value>
-      <webElementGuid>cbbd7a31-ff6a-4334-a449-4194416dd7c5</webElementGuid>
+      <webElementGuid>f4141dbf-3296-4bff-88aa-750f724f58d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='일시:'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>3247beaa-d480-4c1c-bcc8-d5dc77a47927</webElementGuid>
+      <webElementGuid>ac88245f-5288-49c2-aecc-f6deaa78434d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 요청자:'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>0304eafd-91d8-4b69-9993-356c99056f99</webElementGuid>
+      <webElementGuid>7585a2e8-72da-406b-aec0-d691a05d04b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>a1320d3b-822c-4d73-8e69-78fda2caec7d</webElementGuid>
+      <webElementGuid>fe075b53-ca72-44e4-b199-a324aefd7ffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보 처리방침'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>0e2cf13a-6986-4e7c-b5a5-a08e53a41db1</webElementGuid>
+      <webElementGuid>a1a5025b-beda-4760-ae43-2db9983a00ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='일시:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>37c56f0e-0190-4aac-beae-a1f8025f14d9</webElementGuid>
+      <webElementGuid>13f107de-6a23-4158-92f6-1d7b4c6d063b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 요청자:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>83bca6a8-5845-4326-b991-573732a3e84e</webElementGuid>
+      <webElementGuid>3c27ef78-c7ff-442a-9366-1ddeae5037f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='진행 중'])[3]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>afd4ca55-ec0d-4c32-8db0-fd61d8edf00a</webElementGuid>
+      <webElementGuid>0a686682-3f37-4eaa-b3f8-b180480c4526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='sample_pdf'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>4958aef2-6c51-4e7a-a446-d1fc208b502c</webElementGuid>
+      <webElementGuid>0dab035d-0491-4050-b91a-19eb2927926c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 거부'])[1]//*[name()='svg'][1]</value>
-      <webElementGuid>80b11255-cb77-4bd7-b4e0-49a96a75b79d</webElementGuid>
+      <webElementGuid>f1a32eb1-1cf7-444d-9795-5558c63a8795</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +206,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 참여자 변경 요청'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>ba86cf28-0df0-4ef2-a54e-6389256fa37f</webElementGuid>
+      <webElementGuid>f05a6485-b95a-4164-9447-52cec445aefb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,6 +214,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 보기'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>769e2f23-2ad1-4733-a681-d1a21ec96e64</webElementGuid>
+      <webElementGuid>84577050-c74e-4a97-ae07-91efd110b928</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>체크박스 선택</name>
+   <name>서명거부_하단바</name>
    <tag></tag>
-   <elementGuidId>da1ab08f-ac4e-413e-b8b0-ee868b556448</elementGuidId>
+   <elementGuidId>bbe7c7ba-5c75-45aa-9a39-697756aba496</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>div.styled__Wrapper-sc-273jui-0.fbRZiS</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='signFiled']/div[5]</value>
+         <value>//div[@id='__next']/div/div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4d9e1d7b-3a37-4d3f-88ec-7e00bcfee6da</webElementGuid>
+      <webElementGuid>e53717f3-7162-411e-be54-1d30491e6ae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>styled__Item-sc-fsqwxz-2 guIejy</value>
-      <webElementGuid>5394663d-c16f-49b7-9851-2af8105e6a40</webElementGuid>
+      <value>styled__Wrapper-sc-273jui-0 fbRZiS</value>
+      <webElementGuid>424215cf-b4c1-4312-9226-e5c7d1d80257</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>체크 박스</value>
-      <webElementGuid>cd3b1276-f0f6-4fb2-a7ef-51bfab17d109</webElementGuid>
+      <value>취소계속</value>
+      <webElementGuid>653c3ec3-3286-4673-a0b7-04a0170ff651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;signFiled&quot;)/div[@class=&quot;styled__Item-sc-fsqwxz-2 guIejy&quot;]</value>
-      <webElementGuid>8996c5dc-b7ae-4eb5-80cf-1231d939f8b8</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-4qljru&quot;]/div[@class=&quot;styled__Wrapper-sc-273jui-0 fbRZiS&quot;]</value>
+      <webElementGuid>a4280291-e958-4524-9d13-4225ba95bf66</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='signFiled']/div[5]</value>
-      <webElementGuid>ddf88843-0a35-489f-b591-5d43ee4da74f</webElementGuid>
+      <value>//div[@id='__next']/div/div[3]</value>
+      <webElementGuid>9b60cecb-2107-40e9-8094-b690a85abdc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[13]</value>
-      <webElementGuid>b5b7de8f-5e66-491c-9b35-61ce0aeb9749</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[8]</value>
+      <webElementGuid>e0f7fe05-ab0a-4e0f-a996-366f7f507ce1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[22]</value>
-      <webElementGuid>c4a9a234-3838-4dbd-9b41-d6975f8ed846</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/preceding::div[10]</value>
-      <webElementGuid>cddab888-107b-4732-b78e-db9901382c87</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 순서 지정하기'])[1]/preceding::div[15]</value>
-      <webElementGuid>a4e4edc8-385e-45f5-ab1f-ca54d8d9cf64</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='눈금 보이기'])[1]/following::div[17]</value>
+      <webElementGuid>a952a204-d722-4cb4-b887-d4e86fbdc1ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]</value>
-      <webElementGuid>e9c1f006-276b-4363-8c55-ba325f57e3d1</webElementGuid>
+      <value>//div/div[3]</value>
+      <webElementGuid>4c1cabd8-2214-4f77-a5c7-6664fec173a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '체크 박스' or . = '체크 박스')]</value>
-      <webElementGuid>73a72968-c281-4558-8e03-b1e1f4f1303a</webElementGuid>
+      <value>//div[(text() = '취소계속' or . = '취소계속')]</value>
+      <webElementGuid>af738955-978b-456b-95ce-5867ff886333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[9]</value>
+      <webElementGuid>fbe79ec1-23ea-436f-b996-fa54b0a8b780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='눈금 보이기'])[1]/following::div[18]</value>
+      <webElementGuid>d64d2a9a-6454-47e7-975c-a8373b8d6eca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

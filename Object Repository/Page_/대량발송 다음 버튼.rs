@@ -6,12 +6,12 @@
    <elementGuidId>a3193c07-c8c6-4689-a33d-97abc41547df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[22]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-color.MuiButton-colorPrimary.MuiButton-sizeMedium.MuiButton-colorSizeMedium.MuiButton-root.MuiButton-color.MuiButton-colorPrimary.MuiButton-sizeMedium.MuiButton-colorSizeMedium.css-14i31n7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>27f787cb-d2be-47ab-9f6a-4593eccff897</webElementGuid>
+      <webElementGuid>7dea646e-330c-40c0-b3bc-49e4d8801cd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeMedium MuiButton-colorSizeMedium MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeMedium MuiButton-colorSizeMedium css-14i31n7</value>
-      <webElementGuid>ab7e4803-4e39-4d9f-b39b-9d61534ef5a3</webElementGuid>
+      <webElementGuid>aa3a5c50-33d9-46e4-b8a5-eb0b9e62cca7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>353979c7-6b70-4430-81fc-c40b35d6ce81</webElementGuid>
+      <webElementGuid>8384af89-d20c-418c-9154-247aebdde263</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d8d2e5fa-08c1-4301-a13d-1623fe2f4d90</webElementGuid>
+      <webElementGuid>af09df32-6b9f-4952-a250-aaf505798422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>다음</value>
-      <webElementGuid>e68e9b6c-2ddd-42ae-a0cf-37dbb0c60040</webElementGuid>
+      <webElementGuid>05d969fe-7ba9-47e4-a16e-4a13e4707d4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-10o0nwd&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeMedium MuiButton-colorSizeMedium MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeMedium MuiButton-colorSizeMedium css-14i31n7&quot;]</value>
-      <webElementGuid>fd2df0f2-3150-453b-a696-2293377cd446</webElementGuid>
+      <webElementGuid>65b4168b-042f-4dc4-a4ac-77e850270457</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[22]</value>
-      <webElementGuid>d8c2cb5c-b2ea-4be8-b2c7-b52a29e59fc6</webElementGuid>
+      <webElementGuid>ed121354-528c-4508-879d-042539e95a79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/following::button[1]</value>
-      <webElementGuid>b7bded6e-2c49-4c94-9201-3d9893275eae</webElementGuid>
+      <webElementGuid>6a5daac5-90c1-486e-abb5-b374191cd848</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('사용 가능한 특수문자 : `~!@#$%^&amp;*()-_=+|\{}[];:', &quot;'&quot;, '', '&quot;', ',.&lt;>/?')])[1]/following::button[5]</value>
-      <webElementGuid>9dceb751-1d79-4d80-beaf-d5e0fe64ef6f</webElementGuid>
+      <webElementGuid>43830d36-0907-4924-ae77-a1ce2096a9d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='다음']/parent::*</value>
-      <webElementGuid>1a940afa-3cab-47cc-a45d-4f2b96dbe181</webElementGuid>
+      <webElementGuid>c0ba899e-0c32-4c68-9499-fb95d912fa50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button[2]</value>
-      <webElementGuid>860ddb7b-409e-4ee7-85f2-16c5968cc5f6</webElementGuid>
+      <webElementGuid>2d38b4e0-e5c2-4a89-ad5d-bcb563cf3e86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '다음' or . = '다음')]</value>
-      <webElementGuid>1f35aa75-ed60-482d-a66d-3224b68e565c</webElementGuid>
+      <webElementGuid>61305d79-5312-4576-9de8-d6f2ff26dbd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

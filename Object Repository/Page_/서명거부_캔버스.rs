@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>docx</name>
+   <name>서명거부_캔버스</name>
    <tag></tag>
-   <elementGuidId>12a5d8ae-9f23-4982-85ca-124e9ab0bb60</elementGuidId>
-   <imagePath>Screenshots/Targets/Object Repository/Page_/docx.png</imagePath>
+   <elementGuidId>2872b31b-e705-44b0-be92-4ba731d24c7e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;pageContainer1&quot;)/div[@class=&quot;react-pdf__Page&quot;]/canvas[@class=&quot;react-pdf__Page__canvas&quot;]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='pageContainer1']/div/canvas</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>canvas.react-pdf__Page__canvas</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value>Screenshots/Targets/Object Repository/Page_/docx.png</value>
+         <key>XPATH</key>
+         <value>//div[@id='pageContainer1']/div/canvas</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>canvas</value>
-      <webElementGuid>69d8aae8-d798-4655-9dad-ae28a64b2065</webElementGuid>
+      <webElementGuid>06e0b711-6fc7-488a-86b3-fcab340cbb2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-pdf__Page__canvas</value>
-      <webElementGuid>8e976915-8a0a-4650-aa1c-833a8fe9c683</webElementGuid>
+      <webElementGuid>3d77967e-63ec-4076-b0a3-041002d8cdcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1606</value>
-      <webElementGuid>edfc5097-58ff-4807-a870-683db3a69dcd</webElementGuid>
+      <webElementGuid>37123a71-8622-4af3-8d17-b1c0539fcfac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>2270</value>
-      <webElementGuid>b80ed651-ea04-42f4-b75f-8612eb563a7d</webElementGuid>
+      <webElementGuid>0428689e-1ddd-4d0a-bf8d-7e56264f6848</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pageContainer1&quot;)/div[@class=&quot;react-pdf__Page&quot;]/canvas[@class=&quot;react-pdf__Page__canvas&quot;]</value>
-      <webElementGuid>e1d1e291-551b-4860-9bc9-44f98f72c6a3</webElementGuid>
+      <webElementGuid>6926bb52-53f3-47e3-8dc5-5960e14e7da0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pageContainer1']/div/canvas</value>
-      <webElementGuid>ac776052-efb9-4329-988e-8877efd763c6</webElementGuid>
+      <webElementGuid>7b8c70d8-d788-4bbb-9e56-847fa3fc7d1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//canvas</value>
-      <webElementGuid>2958bd50-cad5-4d16-98cb-299ba48c706f</webElementGuid>
+      <webElementGuid>5e57353d-5e33-46e3-9568-11945300d78b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

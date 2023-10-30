@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__mui-160</name>
+   <name>서명거부_첫번째계정입력</name>
    <tag></tag>
-   <elementGuidId>3a43e4ae-2b0b-4a0b-ae1a-1f4991fd2217</elementGuidId>
+   <elementGuidId>136987e5-5d61-4cb7-a075-d6a91698baf2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mui-160</value>
+         <value>#mui-165</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mui-160']</value>
+         <value>//div[2]/div/div[2]/div/div/div/div/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1770b4b3-4b54-4bea-9d85-05748d0e2d3e</webElementGuid>
+      <webElementGuid>5f68be20-89e6-4ba4-97ad-2d31dbc1951d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b58eeeda-a35c-4b16-85b5-9985c8aa8971</webElementGuid>
+      <webElementGuid>a5650cb1-c111-48da-9a66-d29c7047710a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>new-password</value>
-      <webElementGuid>1deb482d-54b0-4997-949e-4a0def673c18</webElementGuid>
+      <webElementGuid>2080a66b-452f-4456-9150-102a33d86f4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>이메일</value>
-      <webElementGuid>5c1b14f7-2ca3-4cdd-bacf-fe1c90b1929f</webElementGuid>
+      <webElementGuid>1f76a5b7-ac7e-403d-82c4-47111287cf4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>facfff6b-3813-4aa5-8e1c-8f27346db255</webElementGuid>
+      <webElementGuid>fff794fd-506c-4394-bf8e-d8099f03c8ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiAutocomplete-input MuiAutocomplete-inputFocused css-iar14u</value>
-      <webElementGuid>fcc67b6b-a2cb-4f6c-9198-91d8dbfc62f2</webElementGuid>
+      <webElementGuid>eb112d48-e99a-40a4-9e93-53c813455d5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>30df7988-dbd0-4f8d-9557-206a15a8938d</webElementGuid>
+      <webElementGuid>d2fadcf5-8b7a-4c10-bf5e-6fd778284378</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5875d562-194b-4065-ac74-175c5de069c2</webElementGuid>
+      <webElementGuid>b5108344-f171-4a15-be88-0620c2b93668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>36a80692-57c7-436e-8369-a93162e00bab</webElementGuid>
+      <webElementGuid>4216998e-dbcd-48dd-b1ce-d31e9c8a8505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7568360a-ab6b-4e23-a2c4-d4208b977bfb</webElementGuid>
+      <webElementGuid>4344fc17-2aa8-4494-bbeb-272e4b941390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,62 +102,54 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>af663b53-39cf-443b-a4eb-824b269bff2c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>s</value>
-      <webElementGuid>da205d8f-330b-49c8-bd9d-77f973a02241</webElementGuid>
+      <webElementGuid>4af06646-999a-411c-830f-f480e395ba74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>mui-160</value>
-      <webElementGuid>9ded2d56-0cff-4bd9-aa72-e1a135409884</webElementGuid>
+      <value>mui-165</value>
+      <webElementGuid>f4f7aaf3-1354-46e4-bcad-521ba60e926f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>mui-160-listbox</value>
-      <webElementGuid>fa0d8a21-f692-4aab-b9d9-dc63b3b25930</webElementGuid>
+      <value>mui-165-listbox</value>
+      <webElementGuid>0607bef6-4ad5-4669-ab06-fa33b8311625</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mui-160&quot;)</value>
-      <webElementGuid>b7ce7ea1-72d6-44a6-af72-1601eb44de5f</webElementGuid>
+      <value>id(&quot;mui-165&quot;)</value>
+      <webElementGuid>5e91bb33-3743-4166-ac55-d72a627c57a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mui-160']</value>
-      <webElementGuid>d3138b26-e34e-4f10-a7fa-0802576700f5</webElementGuid>
+      <value>//input[@id='mui-165']</value>
+      <webElementGuid>ea327f80-b12b-4c9a-b874-913b5846e16e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/div[2]/div/div/div/div/div/div/input</value>
-      <webElementGuid>f285d890-3b4e-4306-b1b9-1cf0a9d38e5d</webElementGuid>
+      <value>//div[2]/div/div[2]/div/div/div/div/div/div/input</value>
+      <webElementGuid>02eb048f-4f88-44cf-ac63-16ea7d8ebcbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = '이메일' and @type = 'text' and @id = 'mui-160']</value>
-      <webElementGuid>bca64782-4409-4ef5-b128-26ca17152a68</webElementGuid>
+      <value>//input[@placeholder = '이메일' and @type = 'text' and @id = 'mui-165']</value>
+      <webElementGuid>007a6eb3-e5bb-4e52-bb4f-74f5ae3ef025</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

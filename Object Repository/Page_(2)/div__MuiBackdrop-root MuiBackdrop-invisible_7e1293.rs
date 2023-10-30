@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PDF 캔버스</name>
+   <name>div__MuiBackdrop-root MuiBackdrop-invisible_7e1293</name>
    <tag></tag>
-   <elementGuidId>15c31b1a-5dff-4ec5-a7ba-e2a93d68e20e</elementGuidId>
+   <elementGuidId>d816bb30-9a89-483c-8283-fc59072b70fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>canvas.react-pdf__Page__canvas</value>
+         <value>div.MuiBackdrop-root.MuiBackdrop-invisible.MuiModal-backdrop.css-esi9ax</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='pageContainer1']/div/canvas</value>
+         <value>//div[@id='task-more-menu-37581']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,47 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>canvas</value>
-      <webElementGuid>ee933e19-584d-46b4-ae53-a8610540e77a</webElementGuid>
+      <value>div</value>
+      <webElementGuid>8b5b72d7-f9d8-43aa-b94b-f9d62456362e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2dba5a02-79b3-4105-8174-843fb12fb25f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>react-pdf__Page__canvas</value>
-      <webElementGuid>902dc25a-2733-45eb-9845-c10ebf1432cb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>width</name>
-      <type>Main</type>
-      <value>1606</value>
-      <webElementGuid>605641ba-02f8-455c-8ad5-31d39dc18d66</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>height</name>
-      <type>Main</type>
-      <value>2270</value>
-      <webElementGuid>6cb3d6db-8b69-4003-831b-878182dd7483</webElementGuid>
+      <value>MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-esi9ax</value>
+      <webElementGuid>3bd84e46-9f14-48f0-a3cf-5c723ad5c7cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pageContainer1&quot;)/div[@class=&quot;react-pdf__Page&quot;]/canvas[@class=&quot;react-pdf__Page__canvas&quot;]</value>
-      <webElementGuid>cc4897a2-4d15-45cd-924f-c9f47d3c8847</webElementGuid>
+      <value>id(&quot;task-more-menu-37581&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-esi9ax&quot;]</value>
+      <webElementGuid>38573a8a-1f3d-4683-af8d-b523e2258945</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='pageContainer1']/div/canvas</value>
-      <webElementGuid>08638f5b-e6e7-48a4-a2bf-cd6e28d31428</webElementGuid>
+      <value>//div[@id='task-more-menu-37581']/div</value>
+      <webElementGuid>49c621f0-ffac-438e-a26f-606fb5b807a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//canvas</value>
-      <webElementGuid>161f0dc4-63be-4ca8-a07d-768264c3a10c</webElementGuid>
+      <value>//div[3]/div</value>
+      <webElementGuid>ea9e8602-8b41-4721-8244-74288f43c1ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

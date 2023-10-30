@@ -134,10 +134,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_/대량 발송 �
 '문서함으로 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/문서함으로 클릭'))
 
-WebUI.delay(5)
+WebUI.delay(15)
 
 WebUI.navigateToUrl('https://my.stg.hancomsign.com/tasks?state=bulksend')
 
-'체크포인트'
-WebUI.verifyElementText(findTestObject('Object Repository/Page_/문서발송 체크'), 'sample_pdf')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_/_'), '서명 완료(0/1)')
+
+WebUI.closeBrowser()
 

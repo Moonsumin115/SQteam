@@ -6,12 +6,12 @@
    <elementGuidId>b99d1f27-5a2e-467c-a56b-1c4e636c2ca2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'파일을 선택')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p.MuiTypography-root.MuiTypography-body1.css-1wimjkm > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'파일을 선택')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5ed07671-7882-4485-b886-7caea828b9c8</webElementGuid>
+      <webElementGuid>a417f0d0-5f8a-47fe-a64e-54e3c930e994</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>파일을 선택</value>
-      <webElementGuid>c3b3c02d-667b-4ff7-b2d7-7bbbe90aab6f</webElementGuid>
+      <webElementGuid>8020106a-e9e4-43ab-870f-456a48042fbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-xym8ww&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthFalse css-lne1r5&quot;]/div[@class=&quot;MuiDialogContent-root css-jljpuj&quot;]/div[@class=&quot;MuiBox-root css-saer3r&quot;]/div[@class=&quot;MuiBox-root css-1vg2hdx&quot;]/div[@class=&quot;styled__WrapperUpload-sc-174rybw-1 dMjKWo&quot;]/div[@class=&quot;MuiBox-root css-bgpvel&quot;]/div[@class=&quot;MuiBox-root css-7npxzx&quot;]/div[@class=&quot;MuiBox-root css-1m6eml0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1wimjkm&quot;]/a[1]</value>
-      <webElementGuid>99e3bf70-2df5-4b1a-85cf-7e2ba2111237</webElementGuid>
+      <webElementGuid>af48c8be-694d-4228-8dfd-15adf5185267</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'파일을 선택')]</value>
-      <webElementGuid>09a1d64d-c6c3-4ff8-8582-253478376a25</webElementGuid>
+      <webElementGuid>4cc94939-8b2f-4e33-9538-d8ca9d05f958</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='다운로드'])[1]/following::a[1]</value>
-      <webElementGuid>0fe6917e-8748-4feb-a344-c6df207807e5</webElementGuid>
+      <webElementGuid>30ae9531-1829-4aee-978e-69be24113b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::a[1]</value>
-      <webElementGuid>87b4fc6d-864c-4dff-9d1f-14a9a7dc4c5f</webElementGuid>
+      <webElementGuid>78053f69-57ad-4aa4-adaf-710bef92ae45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='다음'])[1]/preceding::a[1]</value>
-      <webElementGuid>ff172776-bbf6-4428-a9eb-7e060679c12b</webElementGuid>
+      <webElementGuid>1c9ff5ab-c2df-48bf-b68a-17e6f3376a19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='파일을 선택']/parent::*</value>
-      <webElementGuid>a2a7f7d0-3cff-486d-aea1-7d2db6df5509</webElementGuid>
+      <webElementGuid>f81db536-bf7a-4201-96bf-50604632516e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/a</value>
-      <webElementGuid>ada6a80b-e60f-49b2-a445-d47a853c3a96</webElementGuid>
+      <webElementGuid>ba3f0c42-538e-4199-82b3-bbcd700b7c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = '파일을 선택' or . = '파일을 선택')]</value>
-      <webElementGuid>35ccce9b-1f18-470d-b9a7-fc70e04ede60</webElementGuid>
+      <webElementGuid>fb2bcfe1-e9af-42ca-9fc2-1c7b4667b4f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

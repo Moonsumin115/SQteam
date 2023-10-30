@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>07b6e68e-1bd6-4780-945d-ea98cf8c4d0b</webElementGuid>
+      <webElementGuid>a906ea4c-83a3-4598-931c-f55486cc84ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>32f30491-68d5-4a75-a7e2-a66411dee9c2</webElementGuid>
+      <webElementGuid>91278336-7a18-4400-a430-33457dcf1766</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e11a2910-97c0-47d1-8e0e-73ebe93666dd</webElementGuid>
+      <webElementGuid>a4b0ff63-d863-4b5e-ab26-6e077591976f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>메시지를 입력하세요.</value>
-      <webElementGuid>6403da26-e69b-4d52-b775-7ace816b9602</webElementGuid>
+      <webElementGuid>ae3a81bd-9400-48b8-8a3e-d338c9f0ca44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline css-123ozb2</value>
-      <webElementGuid>9a79e42e-4c4a-4d3c-bec3-a7466b0ab37b</webElementGuid>
+      <webElementGuid>21d3f112-7607-41f9-bf6d-2f2e7846ebd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mui-120</value>
-      <webElementGuid>7c1e7c91-f454-4d57-98f8-f05be36fe594</webElementGuid>
+      <webElementGuid>7657c8d0-718e-4b96-afa7-cb8755a467be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mui-120&quot;)</value>
-      <webElementGuid>3d33611a-8f75-45f5-85fd-d089b24e1588</webElementGuid>
+      <webElementGuid>e2fa5b40-e0b5-461d-b1fc-1850b8b3ec3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='mui-120']</value>
-      <webElementGuid>efa8c9f7-9098-4602-83f4-72aa285448aa</webElementGuid>
+      <webElementGuid>4bcbdb05-051a-411d-a05b-d1d6c9534674</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>1505fd5a-517c-490f-be7a-8c71767a1345</webElementGuid>
+      <webElementGuid>efdfc006-3bd1-41ea-a225-d77f8f3c6068</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@placeholder = '메시지를 입력하세요.' and @id = 'mui-120']</value>
-      <webElementGuid>fa050a57-922a-4447-b675-10955af7abc4</webElementGuid>
+      <webElementGuid>12ab68b2-e800-400a-a8b1-17f90fe63e71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

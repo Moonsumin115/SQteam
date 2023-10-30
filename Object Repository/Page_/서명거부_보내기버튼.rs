@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>보내기 버튼</name>
+   <name>서명거부_보내기버튼</name>
    <tag></tag>
-   <elementGuidId>00b3b03d-e6c3-475a-a034-fa54733b06c4</elementGuidId>
+   <elementGuidId>9d5bda87-86a8-41c0-b2cb-bae68b97c3d1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9175c3f4-9e3a-48d8-bcce-0257014e700a</webElementGuid>
+      <webElementGuid>6b2b343c-3b8b-4df7-8bf4-dcc5eed99ec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeMedium MuiButton-colorSizeMedium MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeMedium MuiButton-colorSizeMedium css-14i31n7</value>
-      <webElementGuid>2976e81a-16d8-4450-a962-38b0315bf76e</webElementGuid>
+      <webElementGuid>fce5ea65-b379-4a42-bf29-dd2a4399ec39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>be9a2451-93da-4851-8302-b72f748fdb71</webElementGuid>
+      <webElementGuid>de1621fe-a543-42eb-9d59-5c5e4bb2f933</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2e254851-8668-466d-8aa0-ac2ebcb8a466</webElementGuid>
+      <webElementGuid>c1bc896e-8f5d-408c-b036-ccd2453e1b6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ReviewSend-Send-GetSignatures</value>
-      <webElementGuid>8d71609e-04a1-447a-b02a-833ad74ecb64</webElementGuid>
+      <webElementGuid>5e295f3e-cec4-4db5-81a9-56693b713b7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>보내기</value>
-      <webElementGuid>5ac1d248-983e-4def-af69-61a789369024</webElementGuid>
+      <webElementGuid>79099fcf-8703-4bbb-bc6f-4faf0aad170d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ReviewSend-Send-GetSignatures&quot;)</value>
-      <webElementGuid>6a1b1a44-e044-49d4-a1b5-8c328bce9f3a</webElementGuid>
+      <webElementGuid>39a85266-c14a-4d41-bf8c-56bf79fe975f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='ReviewSend-Send-GetSignatures']</value>
-      <webElementGuid>a3b0a209-bb05-4252-a93e-9a0c64f4ea12</webElementGuid>
+      <webElementGuid>7243cbcf-14cb-4f69-8902-17c049edf192</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='임시 저장'])[1]/following::button[1]</value>
-      <webElementGuid>45c76c2d-07a5-4776-915a-1641c0e19880</webElementGuid>
+      <webElementGuid>e54d9712-5fac-41f8-a244-4bcee58bed3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[10]/following::button[4]</value>
-      <webElementGuid>623b1f7f-9fbd-4481-81ee-0037eba21e32</webElementGuid>
+      <webElementGuid>92d6691a-c212-4496-b117-55feaba73e47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='보내기']/parent::*</value>
-      <webElementGuid>1862734f-a714-4c2a-af24-4adfd2bd42b3</webElementGuid>
+      <webElementGuid>ec65f0a6-cb78-49ff-bac8-2813e9203f9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button[2]</value>
-      <webElementGuid>8ec11cb2-431b-47f9-804c-b9e5283c60ac</webElementGuid>
+      <webElementGuid>93bf4492-744a-410b-a50c-b103911bd31a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'ReviewSend-Send-GetSignatures' and (text() = '보내기' or . = '보내기')]</value>
-      <webElementGuid>f7e66e15-04c0-43c8-b625-6acefbdd1127</webElementGuid>
+      <webElementGuid>fc624890-2e53-492c-9846-c964af8f1dd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='예약 발송'])[1]/following::button[1]</value>
-      <webElementGuid>cafeb580-b3ef-4da7-adb0-ef22898cc449</webElementGuid>
+      <webElementGuid>2440b9e7-ae34-4808-917b-a13a944883b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호 설정'])[1]/following::button[1]</value>
-      <webElementGuid>3240fdbf-50f9-4301-881f-c5adeda00008</webElementGuid>
+      <webElementGuid>2507217a-9946-4001-b30a-9e5fe60b7f48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>21ee4f39-f66b-4067-84fd-e5203ca3bcc5</webElementGuid>
+      <webElementGuid>6c962f32-c794-4039-82e9-97b444f0d0ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[15]/following::button[4]</value>
-      <webElementGuid>4bcc4d89-fb77-4e90-9922-0cf08573abda</webElementGuid>
+      <webElementGuid>80157bcb-57f0-4a3f-ac45-b9f912afe7c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

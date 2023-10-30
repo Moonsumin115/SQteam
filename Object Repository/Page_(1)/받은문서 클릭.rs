@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>66af42b2-24ba-43b7-bc5f-0573934fc472</webElementGuid>
+      <webElementGuid>cd54b8a5-ea45-4482-a42b-01f43c91b6fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>cdd97f51-7634-40fd-9930-535cc32d5713</webElementGuid>
+      <webElementGuid>afd8806e-d4b5-4a61-b489-7187726a5455</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>2a08dcba-ab4e-4df8-88c3-10cdd3055805</webElementGuid>
+      <webElementGuid>2a3d442c-558d-4e4f-ba84-51269a01648e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>b98d7010-7029-43b7-a98e-79942072d82a</webElementGuid>
+      <webElementGuid>0d4eaa10-86b7-46ac-a5b3-c5290525adf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>2590a0b0-dca3-44e5-ac66-76d0e9ed519b</webElementGuid>
+      <webElementGuid>2b4f9a34-1866-47d1-a417-3c34e53bef85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xmlns:xlink</name>
       <type>Main</type>
       <value>http://www.w3.org/1999/xlink</value>
-      <webElementGuid>2fc05197-8dd9-4fed-b554-e32ff5612863</webElementGuid>
+      <webElementGuid>379a7f4a-6226-4519-ad6e-062d17f3e27f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;task-more-box-36937&quot;)/div[@class=&quot;MuiBox-root css-1of0ype&quot;]/svg[1]</value>
-      <webElementGuid>2503f706-7410-476d-b111-e880f5c4ea85</webElementGuid>
+      <webElementGuid>99031d44-a6fa-41c2-b5e2-09c0532dce40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='일시:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>a2f04380-ee2f-48c9-bcb6-b9f14276a303</webElementGuid>
+      <webElementGuid>c7a01a9f-fba2-4fbd-8bd9-11e7b3da9890</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 요청자:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>06ad13bc-0960-46a5-9cb6-125fa5e16c46</webElementGuid>
+      <webElementGuid>a93f6535-804d-4e00-8cec-f5004c6fdd86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>aeceea5a-1e34-4246-a898-6e06ca339518</webElementGuid>
+      <webElementGuid>0668b5ab-3838-4950-8d0a-1366342b3822</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보 처리방침'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>8aebc683-b3b9-4898-b98b-8f593548f5ec</webElementGuid>
+      <webElementGuid>8ab65410-c586-46f6-84b1-c10ff448879e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

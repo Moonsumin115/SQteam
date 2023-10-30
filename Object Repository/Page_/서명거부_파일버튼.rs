@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>파일 선택</name>
+   <name>서명거부_파일버튼</name>
    <tag></tag>
-   <elementGuidId>fc6d57c9-917e-4ad1-b543-4b6fea97a29e</elementGuidId>
+   <elementGuidId>c0a11abd-2c2d-4440-9f02-27c6513b584f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>07f301d2-46ba-4a3f-b10b-f77792dd1e68</webElementGuid>
+      <webElementGuid>aa03bc76-1ca3-440f-8878-a8ef4ecd8a56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium css-12h69kn</value>
-      <webElementGuid>f0752267-b4fe-48c3-b285-ffa4e75dea33</webElementGuid>
+      <webElementGuid>28f42d0d-3409-40f6-b663-7e93abf9ac6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7cdba8bb-54a0-4776-89a7-1670bdfea3ef</webElementGuid>
+      <webElementGuid>d9824392-ec43-48ee-8cbf-93b92690b6c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0a79f22a-5f80-4eaf-bd6b-aa8e8115e625</webElementGuid>
+      <webElementGuid>a048556d-ac3e-45f4-925e-282dc69b2589</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>파일 선택</value>
-      <webElementGuid>2bf702a0-00c3-4887-9f31-399952e55a63</webElementGuid>
+      <webElementGuid>ffee9cc5-d5be-4983-969d-804b4ffba7d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-3vsr9p&quot;]/div[@class=&quot;MuiBox-root css-1ik4laa&quot;]/div[@class=&quot;MuiBox-root css-hpuc4i&quot;]/main[@class=&quot;MuiBox-root css-roxj3j&quot;]/div[@class=&quot;MuiBox-root css-1k8t7d9&quot;]/div[@class=&quot;SelectDocumentTab__Wrapper-sc-be7v4d-0 jrznEg&quot;]/div[@class=&quot;MuiBox-root css-1vx1dtt&quot;]/div[@class=&quot;MuiBox-root css-14kxyr&quot;]/div[@class=&quot;styled__WrapperUploadBlock-sc-1iwj84n-0 fGcLYL&quot;]/div[@class=&quot;MuiBox-root css-bgpvel&quot;]/div[@class=&quot;MuiBox-root css-vvoe96&quot;]/div[@class=&quot;MuiBox-root css-wfqyff&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium css-12h69kn&quot;]</value>
-      <webElementGuid>41f862c7-eafa-4148-bc2e-f308b2161fef</webElementGuid>
+      <webElementGuid>94dd4905-7261-4472-b64d-459257f5bab8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>adca9ac5-62da-458c-b2a1-ccdbaddf9ef8</webElementGuid>
+      <webElementGuid>56841ffc-bc6b-4426-890d-cb1ce87d8edd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div[2]/main/div/div/div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>025361be-ce07-4672-a554-06befb059f42</webElementGuid>
+      <webElementGuid>fdf5ff05-ce23-444b-9405-187ba559ae6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='템플릿'])[2]/following::button[1]</value>
-      <webElementGuid>ed7c8889-ea1a-4ae3-bffa-36a5a40ba409</webElementGuid>
+      <webElementGuid>a9922ec7-ccff-4490-a962-740403094def</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='임시 저장 문서'])[1]/following::button[2]</value>
-      <webElementGuid>bd979902-97b6-4adb-b331-25098765f477</webElementGuid>
+      <webElementGuid>43c7328a-7e3c-4457-8af7-f99cc378676d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::button[1]</value>
-      <webElementGuid>e385bd3d-7369-4357-9352-ba63cfc4c3b6</webElementGuid>
+      <webElementGuid>c9d1048d-9293-4434-a4d7-0fd139b3ef13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보 처리방침'])[1]/preceding::button[1]</value>
-      <webElementGuid>ecde62c6-ec90-4237-a3b9-bc84d0fac9b2</webElementGuid>
+      <webElementGuid>1f00a66f-e1c7-4fd6-b44d-18def69ff534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='파일 선택']/parent::*</value>
-      <webElementGuid>498a1de3-d4de-4f1f-bf06-ddc1ec65b86f</webElementGuid>
+      <webElementGuid>4dd9f23e-16a2-4c09-935d-c45b824adc1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>8cb9c7b5-67f0-423f-b517-d5c5f0fc160d</webElementGuid>
+      <webElementGuid>44a224b2-5d86-4afe-a0f5-d888dad929ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '파일 선택' or . = '파일 선택')]</value>
-      <webElementGuid>d94e45d4-f06e-439a-8a68-d94b87b4dd3e</webElementGuid>
+      <webElementGuid>367897ae-86f8-4560-abba-b7880b6b9302</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

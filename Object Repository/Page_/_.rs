@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_</name>
+   <tag></tag>
+   <elementGuidId>2a37ac60-86a4-4e7b-8e76-52793e71dfc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-15dlcmi > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/main/div/div/div/div[3]/div/div/div/div[3]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ba11d11a-6e1d-401b-bf20-36b7c5a981df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>서명 완료(0/1)</value>
+      <webElementGuid>2c7d7876-ca2e-4c47-a9a9-6f6518dbbc66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-3vsr9p&quot;]/div[@class=&quot;MuiBox-root css-1ik4laa&quot;]/div[@class=&quot;MuiBox-root css-hpuc4i&quot;]/main[@class=&quot;MuiBox-root css-roxj3j&quot;]/div[@class=&quot;MuiBox-root css-11jivkb&quot;]/div[@class=&quot;MuiBox-root css-1yygsgg&quot;]/div[@class=&quot;MuiBox-root css-1ofqig9&quot;]/div[@class=&quot;MuiBox-root css-1ui5vhq&quot;]/div[@class=&quot;MuiBox-root css-197kn08&quot;]/div[@class=&quot;MuiBox-root css-1ezljgs&quot;]/div[@class=&quot;MuiBox-root css-1oct9i7&quot;]/div[@class=&quot;MuiBox-root css-1nvf6qq&quot;]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/div[@class=&quot;MuiBox-root css-15dlcmi&quot;]/p[1]</value>
+      <webElementGuid>33d8de2b-6d10-44d1-adfd-acc2ec8a8fba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/main/div/div/div/div[3]/div/div/div/div[3]/div/div[2]/p</value>
+      <webElementGuid>120e430e-4dd1-4b13-b46e-f026fcfe8a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sample_pdf'])[1]/following::p[1]</value>
+      <webElementGuid>6c8f9bf2-3986-4116-b821-5adce3dc0b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='관리'])[1]/following::p[1]</value>
+      <webElementGuid>b0617aa5-666e-4703-b95c-e8981f0ee4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 요청자:'])[1]/preceding::p[1]</value>
+      <webElementGuid>20746bc1-bcc6-410c-a917-d5cca43e567a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='서명 완료']/parent::*</value>
+      <webElementGuid>c3509844-86c2-42f0-bcbb-d1f11846152e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/p</value>
+      <webElementGuid>b44dd415-6b51-4519-b25b-584452432519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '서명 완료(0/1)' or . = '서명 완료(0/1)')]</value>
+      <webElementGuid>03d3313d-bb1e-40e8-9f8e-3cd8a521a378</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

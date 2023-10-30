@@ -6,16 +6,16 @@
    <elementGuidId>f6be56c2-6275-4b54-862e-c34a3b37fb1f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[5]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '닫기' or . = '닫기')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-fill.MuiButton-fillPrimary.MuiButton-sizeMedium.MuiButton-fillSizeMedium.MuiButton-root.MuiButton-fill.MuiButton-fillPrimary.MuiButton-sizeMedium.MuiButton-fillSizeMedium.css-1ygp1vq</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = '닫기' or . = '닫기')]</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eed01138-48bf-4745-babc-acc2c31ca00a</webElementGuid>
+      <webElementGuid>0036da9f-939c-4d81-a631-78ccbc7d3abc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium css-1ygp1vq</value>
-      <webElementGuid>dee58061-3b26-4bce-941d-1d6c54f16864</webElementGuid>
+      <webElementGuid>14bef01a-f6c0-457a-a182-eb12b2fc49d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>fe7b6d44-66fb-45d7-8a87-405415cac97a</webElementGuid>
+      <webElementGuid>040e8216-f6c0-4d82-ab94-7fd0c8586db6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>787f70fc-c387-48c4-96ac-71f469c4f55e</webElementGuid>
+      <webElementGuid>3e57426d-f024-4a6e-a8cd-0880bfb14f31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>backgroundcolor</name>
       <type>Main</type>
       <value>rgba(0, 0, 0, 0.3)</value>
-      <webElementGuid>30f1c13b-2771-4f93-91b6-4829f6184890</webElementGuid>
+      <webElementGuid>4baa80b2-2cd1-42a7-aa16-fb705d295b47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>닫기</value>
-      <webElementGuid>f9207e25-7fa2-4805-860a-bb55aefe03e7</webElementGuid>
+      <webElementGuid>efa4838c-6bd3-4b56-9b0f-54b50ad8dee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fonts-loaded&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-1tck34i&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-wuq4w4&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-1qsvbkb&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium MuiButton-root MuiButton-fill MuiButton-fillPrimary MuiButton-sizeMedium MuiButton-fillSizeMedium css-1ygp1vq&quot;]</value>
-      <webElementGuid>6f0aeae4-232a-4c5c-b65d-e2dd0852f93c</webElementGuid>
+      <webElementGuid>b5c6eb8b-c354-43a9-a0c0-3cc0455488b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>74c8bad6-4c95-4d77-bcae-3b00a517f58a</webElementGuid>
+      <webElementGuid>c7a82496-d862-4d17-a51b-d4d49dafb02e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='다시 표시하지 않기'])[1]/following::button[1]</value>
-      <webElementGuid>240583db-8d26-4884-bb73-0f3ffc9f74ae</webElementGuid>
+      <webElementGuid>2233cae9-c268-4c34-9842-b5637dba8947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='왼쪽 메뉴에 마우스를 올리면 기능별 안내를 확인할 수 있어요.'])[1]/following::button[1]</value>
-      <webElementGuid>f5eded55-3cbf-45fe-b8df-eea13d3adec7</webElementGuid>
+      <webElementGuid>6d4dd137-8e68-4099-ac40-7580365eaf1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='닫기']/parent::*</value>
-      <webElementGuid>146b4e8e-4adf-45a3-9a23-ce0fa599b1f3</webElementGuid>
+      <webElementGuid>0e9b9eb0-192f-4dda-965d-cc567e553ae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>5d4b65c7-5bff-4032-9880-6de6d3746eb0</webElementGuid>
+      <webElementGuid>82a7dc58-eeca-4415-8d46-1cc4b7275ff6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '닫기' or . = '닫기')]</value>
-      <webElementGuid>ff678ce7-b065-4159-ae7f-4afde90ec2f5</webElementGuid>
+      <webElementGuid>8d47eb26-8cbd-4d4d-a2cf-8a5b0d644230</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

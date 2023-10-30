@@ -6,12 +6,16 @@
    <elementGuidId>d099f8ad-3faf-4141-8c3c-0958df7f8b63</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '삭제' or . = '삭제')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='task-more-menu-37007']/div[3]/ul/li[4]</value>
+         <value>//div[@id='task-more-menu-37589']/div[3]/ul/li[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>9c6c520a-232c-436b-b355-d82f56b023e7</webElementGuid>
+      <webElementGuid>4cbc387e-ca34-4d5c-a896-9eb1d6b01bac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt</value>
-      <webElementGuid>abbee0c0-efba-4dcc-9e62-ed744b91ba37</webElementGuid>
+      <webElementGuid>685f40ff-c032-43ed-ac3f-162407a94c7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>621e07fb-104f-426b-a22b-7b1771129c74</webElementGuid>
+      <webElementGuid>da96cd9d-d40f-4e49-8465-4d89d3c3ddef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>9a5f448c-680c-44ec-adcb-18098d1cecad</webElementGuid>
+      <webElementGuid>3040c3b8-4bc8-48a0-bfd5-f6306aca519a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,18 +58,66 @@
       <name>text</name>
       <type>Main</type>
       <value>삭제</value>
-      <webElementGuid>eb490b78-0d5b-4b5e-8c93-d34035b66dd4</webElementGuid>
+      <webElementGuid>bc3fcfdc-5cd0-4820-9dda-6be79420c23a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;task-more-menu-37007&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiMenu-paper MuiPopover-paper MuiMenu-paper css-n6fbq3&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt&quot;]</value>
-      <webElementGuid>d342d2d6-a96c-4371-82c1-5183587c1275</webElementGuid>
+      <value>id(&quot;task-more-menu-37589&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiMenu-paper MuiPopover-paper MuiMenu-paper css-n6fbq3&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt&quot;]</value>
+      <webElementGuid>7e8f4b72-7eac-41c0-8bcc-402e2046abcd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='task-more-menu-37589']/div[3]/ul/li[5]</value>
+      <webElementGuid>f15f3d68-5fc2-4984-9373-07a495585a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 보기'])[1]/following::li[1]</value>
+      <webElementGuid>347fb0d7-c270-4f7d-984f-3fb45af00bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 이름 변경'])[1]/following::li[2]</value>
+      <webElementGuid>4de65e5b-ac57-4bbd-a82f-335bda0929c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='삭제']/parent::*</value>
+      <webElementGuid>466dce89-24b1-4d10-8ef8-72d13e7697e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]</value>
+      <webElementGuid>dd03ba87-a560-45a9-9c2c-2888c143139a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '삭제' or . = '삭제')]</value>
+      <webElementGuid>a38d3a14-4ff6-4b81-82b9-484efbb20c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -91,25 +143,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='삭제']/parent::*</value>
-      <webElementGuid>1994aa5c-1beb-46aa-bfde-d822f5cd83d9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]</value>
       <webElementGuid>edfb794a-4d74-4454-84b6-eb529fbee40b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//li[(text() = '삭제' or . = '삭제')]</value>
-      <webElementGuid>be1c3227-d437-4797-a91e-e55dff59ec0b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

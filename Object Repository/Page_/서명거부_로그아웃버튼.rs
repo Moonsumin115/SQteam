@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>받은문서 관리아이콘</name>
+   <name>서명거부_로그아웃버튼</name>
    <tag></tag>
-   <elementGuidId>1ea6918c-c564-4184-ba27-48e436617959</elementGuidId>
+   <elementGuidId>794fb5bd-eeba-4091-a2a8-44bb0fc3f6c4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = '서명 거부' or . = '서명 거부')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='task-more-menu-37580']/div[3]/ul/li[4]</value>
+         <value>//div[@id='avatar-positioned-menu']/div[3]/ul/li[2]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>e1acbb3b-c059-4f2a-aad8-353decbc4b2e</webElementGuid>
+      <webElementGuid>ca7840ac-daa7-4db3-9a09-0a9e3a74062d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt</value>
-      <webElementGuid>aec2f08f-92fd-466f-9820-2615fddda1cb</webElementGuid>
+      <webElementGuid>3c98b75a-d626-4570-b0a9-9a45f4e15689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>218e4c99-40f3-4a17-a2f6-b8a61a686c6d</webElementGuid>
+      <webElementGuid>fbbfc872-dc48-4045-9a5e-604c469af276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,86 +45,78 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>7b1cd36d-f6a7-4860-b7c2-2a60058c726f</webElementGuid>
+      <webElementGuid>3616e9ee-979f-47ac-b80c-a56e3f8bad15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>서명 거부</value>
-      <webElementGuid>c5fe38fa-9783-4585-b0a3-035adf3df5fe</webElementGuid>
+      <value>로그아웃</value>
+      <webElementGuid>6461efcf-8480-4b75-9376-871d76431c72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;task-more-menu-37580&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiMenu-paper MuiPopover-paper MuiMenu-paper css-n6fbq3&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt&quot;]</value>
-      <webElementGuid>e17ca80b-5d65-41ca-8a0b-09940942dbed</webElementGuid>
+      <value>id(&quot;avatar-positioned-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiMenu-paper MuiPopover-paper MuiMenu-paper css-14e70hx&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-19s4myt&quot;]</value>
+      <webElementGuid>451568d3-a171-4766-af0a-ee09d19741e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='task-more-menu-37580']/div[3]/ul/li[4]</value>
-      <webElementGuid>03d67b16-3f79-421a-b467-e77da2ff84f4</webElementGuid>
+      <value>//div[@id='avatar-positioned-menu']/div[3]/ul/li[2]</value>
+      <webElementGuid>e500cde5-8d2d-46eb-827a-9efed6fbf7af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명 참여자 변경 요청'])[1]/following::li[1]</value>
-      <webElementGuid>9d516c50-111e-4998-b962-7033019d48dd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='설정'])[2]/following::li[1]</value>
+      <webElementGuid>45423df9-a9a1-49bc-ba84-ea7a5df407a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 이력'])[1]/following::li[2]</value>
-      <webElementGuid>e04c75c0-209f-4b79-99fd-c487fc343d82</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='이 광고 보지 않기'])[1]/following::li[2]</value>
+      <webElementGuid>ff0a1d12-a175-43a7-80d9-950488738141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 보기'])[1]/preceding::li[1]</value>
-      <webElementGuid>612249f1-4f1d-4c42-a2ae-4e806962b24a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='서명 거부']/parent::*</value>
-      <webElementGuid>437a8bb8-4c1e-4806-b775-60518c7263f8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='로그아웃']/parent::*</value>
+      <webElementGuid>001e5efe-23c9-4cee-94cd-949b9f5460d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]</value>
-      <webElementGuid>fba679fb-d590-43c8-9192-1f2758d2dd52</webElementGuid>
+      <value>//div[3]/ul/li[2]</value>
+      <webElementGuid>4fae6c47-407e-4afc-99ce-844650b6b642</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[(text() = '서명 거부' or . = '서명 거부')]</value>
-      <webElementGuid>80b148d2-cf73-4e85-bbc7-a0c94df8a6e6</webElementGuid>
+      <value>//li[(text() = '로그아웃' or . = '로그아웃')]</value>
+      <webElementGuid>88f54979-f01b-4315-8b70-0c06be55fa3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[@id='task-more-menu-36937']/div[3]/ul/li[4]</value>
-      <webElementGuid>0e6a84f4-caec-4269-a094-683781fbe233</webElementGuid>
+      <value>//li[2]</value>
+      <webElementGuid>473530bc-b00e-4171-ad80-a5d201a45b38</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
