@@ -49,6 +49,8 @@ WebUI.click(findTestObject('Object Repository/Page_/프로필 아이콘'))
 '로그아웃 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/로그아웃 버튼'))
 
+WebUI.delay(2)
+
 WebUI.navigateToUrl('https://www.stg.hancomsign.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_/로그인 버튼'))
@@ -109,6 +111,8 @@ WebUI.navigateToUrl('https://my.stg.hancomsign.com/tasks')
 WebUI.click(findTestObject('Object Repository/Page_/프로필 아이콘'))
 
 WebUI.click(findTestObject('Object Repository/Page_/로그아웃 버튼'))
+
+WebUI.delay(2)
 
 WebUI.navigateToUrl('https://www.stg.hancomsign.com/')
 
