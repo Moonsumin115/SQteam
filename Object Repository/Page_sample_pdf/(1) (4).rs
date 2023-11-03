@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>(1) (4)</name>
+   <tag></tag>
+   <elementGuidId>4dfb2237-5ee8-4368-b406-d4dca8761489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='245']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#245</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f78e1d5c-0144-4692-9d41-526a298f35f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>245</value>
+      <webElementGuid>dae6405e-f583-4443-92e0-badbbcd67a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styled__StampWrapper-sc-1cpb15e-2 iwDviH</value>
+      <webElementGuid>9c228987-53d1-4ae4-a29f-493bbe32b22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;245&quot;)</value>
+      <webElementGuid>943b61ac-96aa-4b77-9563-61eb012d2edf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='245']</value>
+      <webElementGuid>f9487b46-d196-4c55-ae65-f2a468b899fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도장 및 서명 이미지'])[1]/following::div[5]</value>
+      <webElementGuid>94b35fcb-f9ac-4192-a515-c391e9041bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', '245', '&quot;', ')')])[1]/following::div[14]</value>
+      <webElementGuid>f143236e-32c7-4035-b78e-e02ec03e2754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[2]/preceding::div[9]</value>
+      <webElementGuid>5364d782-88da-4f68-b792-981422ccc916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/preceding::div[9]</value>
+      <webElementGuid>e0ec48c8-e916-4826-9ed9-5a7e38aaa8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>3d692d5b-e431-433a-985c-4b1fe0f5bed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '245']</value>
+      <webElementGuid>1606cc3a-95b9-4788-a920-47557c83f635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

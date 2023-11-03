@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>(1) (8)</name>
+   <tag></tag>
+   <elementGuidId>f0d54fb6-9764-4571-93e3-799e690c936f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-color.MuiButton-colorPrimary.MuiButton-sizeLarge.MuiButton-colorSizeLarge.MuiButton-root.MuiButton-color.MuiButton-colorPrimary.MuiButton-sizeLarge.MuiButton-colorSizeLarge.css-b602ll</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1aa628ed-69a1-44a6-98f7-6f301ad7b18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge css-b602ll</value>
+      <webElementGuid>3c5083f2-8daf-494f-aadb-a02542287e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b2c93cbd-b6c7-4951-b5dd-5bcf92c1c0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f616463-8604-4de2-89fe-61a150e4546d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>입력 시작</value>
+      <webElementGuid>d74ff718-c587-49e0-b4fc-29f28f8f2e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-h80ire&quot;]/div[@class=&quot;MuiBox-root css-kdfcgt&quot;]/div[@class=&quot;MuiBox-root css-1ctavtd&quot;]/div[@class=&quot;MuiBox-root css-774jk5&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge MuiButton-root MuiButton-color MuiButton-colorPrimary MuiButton-sizeLarge MuiButton-colorSizeLarge css-b602ll&quot;]</value>
+      <webElementGuid>663f212d-9052-467a-8e19-f0e03fa82188</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>f39d89fb-9613-46ce-becc-039157546078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div/div[3]/button</value>
+      <webElementGuid>36d464d7-38a6-4115-8e73-3d8766e1ca87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서명하기 전에 문서 내용을 충분히 확인하세요.'])[1]/following::button[1]</value>
+      <webElementGuid>7decfd04-700b-482a-8868-a1200e6d2af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 서명 완료'])[1]/following::button[1]</value>
+      <webElementGuid>7505c1fb-7a7c-4e26-a00a-fa20e18d3883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/preceding::button[1]</value>
+      <webElementGuid>da379a53-d515-4a0f-aabf-c4f6c4d97d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='입력 시작']/parent::*</value>
+      <webElementGuid>bfa788b4-228d-435f-a855-e13970011e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>616cc9b7-c226-4bda-9178-faa684345f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '입력 시작' or . = '입력 시작')]</value>
+      <webElementGuid>932a0e28-724a-4582-906a-8668d75c8063</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

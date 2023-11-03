@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>53c118de-5152-4c2f-8d71-1e82c9c8b4a1</webElementGuid>
+      <webElementGuid>ad5bcbab-a948-4034-bb93-e132daf70ee6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>29281dbf-ab90-4686-8abf-b586647dbd4c</webElementGuid>
+      <webElementGuid>e2506964-9384-4b14-9bb0-2ca5ebaa5451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>350de0f3-cf19-4114-b307-234f5bd2465a</webElementGuid>
+      <webElementGuid>2abb631a-6079-47c6-9a37-5cc12a50318f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>98361d5a-10dc-42ca-a35a-5fd373880a3b</webElementGuid>
+      <webElementGuid>29d5b068-51dc-4ba1-b4ce-6a522038c6f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>이메일</value>
-      <webElementGuid>bc703f84-8c01-4d55-a665-abd8a72dcb2c</webElementGuid>
+      <webElementGuid>a537b726-36e7-4e64-b947-05c91519aaf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f7d42520-cbad-470d-80e9-d3496390d0b5</webElementGuid>
+      <webElementGuid>a0c732a8-ecb0-4a72-af31-8938cf169b10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiInput-input css-mnn31</value>
-      <webElementGuid>f82bd24b-06db-4883-9314-304081955992</webElementGuid>
+      <webElementGuid>2272b920-6d4f-49d1-b777-8e0372ad7a8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email&quot;)</value>
-      <webElementGuid>972023df-35a3-44bd-81ed-c757afdbf874</webElementGuid>
+      <webElementGuid>377a8e85-8cd3-4012-a9d5-1697ea896529</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='email']</value>
-      <webElementGuid>5a9451f6-7d56-4c9c-9463-1e44428272ea</webElementGuid>
+      <webElementGuid>cd9dc63a-7ebe-42c7-a44b-c70abf508727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/main/form/div/div/div/input</value>
-      <webElementGuid>0f342b95-aead-42f3-8cc8-371deecb327d</webElementGuid>
+      <webElementGuid>4e659b15-f5c3-4ad2-8265-f1afbb880cd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>5706873a-8629-4fee-9090-7bb52683bdbf</webElementGuid>
+      <webElementGuid>7cf991bd-f946-4954-a938-95cfe02db73e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'email' and @name = 'email' and @placeholder = '이메일' and @type = 'text']</value>
-      <webElementGuid>080573b8-4b2b-43f3-85da-2e1b92749a49</webElementGuid>
+      <webElementGuid>c350e0a3-3ba3-4af2-a22a-fceb7c1874d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

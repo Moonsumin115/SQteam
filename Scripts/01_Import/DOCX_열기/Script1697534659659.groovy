@@ -40,9 +40,9 @@ WebUI.click(findTestObject('Object Repository/Page_/알림공지닫기'))
 WebUI.click(findTestObject('Object Repository/Page_/시작하기'))
 
 '파일 선택 버튼'
-WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Page_/파일 선택'), 'C:\\download\\sample_pdf.pdf')
+WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Page_/파일 선택'), 'C:\\download\\sample_docx.docx')
 
 WebUI.delay(3)
 
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser()
 

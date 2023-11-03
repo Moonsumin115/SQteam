@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>계정비밀번호 로그인 버튼</name>
+   <name>DOCX열기_로그인버튼클릭</name>
    <tag></tag>
-   <elementGuidId>bcbaf866-b954-495a-a01e-d260be71eeef</elementGuidId>
+   <elementGuidId>92d7093f-d9b1-4546-86b4-d2f4ae2fef8a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e28d7450-8c4b-4c09-ac26-666f1f1b7d97</webElementGuid>
+      <webElementGuid>9e91079e-e62b-40bb-bd6d-2990689ab3df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButton-fullWidth css-jm1mwq</value>
-      <webElementGuid>18f79979-915a-4c14-b192-ef0e48144996</webElementGuid>
+      <webElementGuid>a2e08b25-624b-4f1e-94ad-9445b9ff0669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ac7e4218-2848-4ad1-bb47-cdeb2deb539e</webElementGuid>
+      <webElementGuid>ba362be6-22c4-4e69-9800-0e5e97ba2b58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>11ac1b54-5f6b-447f-a58c-ba844198ccd8</webElementGuid>
+      <webElementGuid>9166ba2e-d5dc-444a-b7ff-1006edb3d86a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>email_login</value>
-      <webElementGuid>ba5cdd9f-dbdd-4d40-ad2d-7076fb7be39b</webElementGuid>
+      <webElementGuid>d6ede87c-193e-46ec-9673-3ebffb376883</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>로그인</value>
-      <webElementGuid>df44f2b6-511e-44bb-8ad7-0577aa297029</webElementGuid>
+      <webElementGuid>093608d7-deef-406d-8242-7ea93da1f67c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email_login&quot;)</value>
-      <webElementGuid>9518c0cc-b18b-49d7-a982-edb692ebefff</webElementGuid>
+      <webElementGuid>e5961c32-3270-4804-8bb7-0ef3a365a025</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='email_login']</value>
-      <webElementGuid>662cc6f7-4a8c-42cc-ba3c-c8c3174f6e15</webElementGuid>
+      <webElementGuid>3e264e53-2628-43d3-aa5c-f49cb656f9c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/main/form/div[3]/button</value>
-      <webElementGuid>0b915d94-c3b1-449b-8a19-c02bd2d6db56</webElementGuid>
+      <webElementGuid>2e0826cc-2cb4-40a3-9b3a-1dd2682064fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='계정 만들기'])[1]/following::button[2]</value>
-      <webElementGuid>6d2293ab-57e2-4462-8f1a-bc8c92f1ed98</webElementGuid>
+      <webElementGuid>5d2ff143-5bb6-40f3-959c-12c12ca47194</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디 찾기'])[1]/preceding::button[1]</value>
-      <webElementGuid>4468aed8-d1be-4338-bd07-1773bb70c59d</webElementGuid>
+      <webElementGuid>4c61f520-48cc-4173-89f2-d50df0a9d61b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호 찾기'])[1]/preceding::button[1]</value>
-      <webElementGuid>7d369c4b-04ca-4d84-acc4-bfa9c986a1c6</webElementGuid>
+      <webElementGuid>baa83925-ba24-4008-8f40-e5e4fd368bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='로그인']/parent::*</value>
-      <webElementGuid>6b7186bf-1b6d-4412-bbda-47d56e11bdf8</webElementGuid>
+      <webElementGuid>c104199f-ac1b-4e2c-831d-aab1486ef982</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>07a7b1b8-44d3-45af-955c-34faddea14eb</webElementGuid>
+      <webElementGuid>ce228137-656f-493a-bd3f-cc504810abcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'email_login' and (text() = '로그인' or . = '로그인')]</value>
-      <webElementGuid>5af0e471-3ad3-40f7-81b7-9eb72e8b6b5b</webElementGuid>
+      <webElementGuid>bc0cad45-3025-43ae-a81f-f8f15a251cb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

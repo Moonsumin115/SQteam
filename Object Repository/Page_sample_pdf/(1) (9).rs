@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>(1) (9)</name>
+   <tag></tag>
+   <elementGuidId>4929d148-25aa-4760-be0a-8eaafb6d4fa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation6.MuiAlert-root.MuiAlert-filledSuccess.MuiAlert-filled.css-1hwsmrh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70325215-2fb3-4c72-aca6-fdd05d5a5571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation6 MuiAlert-root MuiAlert-filledSuccess MuiAlert-filled css-1hwsmrh</value>
+      <webElementGuid>b22d6b39-09ec-436f-87bb-dd64f87ef0a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>45d6d3d5-b9dd-4f87-8242-8b6769cd6e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>direction</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>667cc085-f2e6-4034-a07d-d163243f3241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>서명 문서를 만들었어요.</value>
+      <webElementGuid>a9145228-0032-493d-82f6-3c2a9c51f9a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-h80ire&quot;]/div[@class=&quot;MuiSnackbar-root MuiSnackbar-anchorOriginTopCenter css-zppt23&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation6 MuiAlert-root MuiAlert-filledSuccess MuiAlert-filled css-1hwsmrh&quot;]</value>
+      <webElementGuid>6993f7a0-1e29-445c-ae82-462a253648f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div</value>
+      <webElementGuid>33452aa8-9de5-4a45-92f3-b72334e79841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>658a453a-0aa5-4d52-898c-f31d99e69bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '서명 문서를 만들었어요.' or . = '서명 문서를 만들었어요.')]</value>
+      <webElementGuid>c061ec6d-afc9-428c-8c38-8a1797c5f419</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

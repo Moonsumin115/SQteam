@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>(1) (5)</name>
+   <tag></tag>
+   <elementGuidId>09c3018e-d097-46ec-b5b9-5af051115325</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-normal.MuiButton-normalPrimary.MuiButton-sizeMedium.MuiButton-normalSizeMedium.MuiButton-root.MuiButton-normal.MuiButton-normalPrimary.MuiButton-sizeMedium.MuiButton-normalSizeMedium.css-1ym8tcp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>274b9ebe-8fe0-4002-b89f-131fe4575311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium css-1ym8tcp</value>
+      <webElementGuid>58e7b2f4-8c9b-4ad2-924b-868e8e70ed3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>419d4ad9-3fdd-4f5e-81cb-5b056a536953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b106d2f7-91df-4750-9be5-9aaf59947de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>문서함으로 이동</value>
+      <webElementGuid>333deb78-247e-4938-afc3-87b4345aef17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-h80ire&quot;]/div[@class=&quot;MuiBox-root css-1686rbf&quot;]/div[@class=&quot;MuiBox-root css-watpwd&quot;]/div[@class=&quot;MuiBox-root css-so6v13&quot;]/div[@class=&quot;MuiBox-root css-19v0ev7&quot;]/div[@class=&quot;MuiBox-root css-1wcjc1k&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium MuiButton-root MuiButton-normal MuiButton-normalPrimary MuiButton-sizeMedium MuiButton-normalSizeMedium css-1ym8tcp&quot;]</value>
+      <webElementGuid>a344ebcd-e529-45ea-8b38-8be00bade671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>959bdcaa-03ad-427f-aca5-69157ddb477a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[4]/div/button</value>
+      <webElementGuid>15c89266-cca4-44de-9d7b-62b37b0d0e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서함'])[1]/following::button[1]</value>
+      <webElementGuid>ec205d4b-96d5-488c-a35c-f27a9652d71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='받은 문서'])[2]/preceding::button[1]</value>
+      <webElementGuid>1881fd62-63a2-4098-8dfb-9dbb14a74d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='문서함으로 이동']/parent::*</value>
+      <webElementGuid>a8ad2d37-f1c5-44f7-bb8d-92a7b44d54c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>d06695a1-b351-4976-96dd-6f0b10c98212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '문서함으로 이동' or . = '문서함으로 이동')]</value>
+      <webElementGuid>2edb208a-4f50-4f80-adb3-096eab2ecefa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

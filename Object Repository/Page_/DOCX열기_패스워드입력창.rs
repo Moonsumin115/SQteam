@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>비밀번호 입력</name>
+   <name>DOCX열기_패스워드입력창</name>
    <tag></tag>
-   <elementGuidId>40b45180-00a5-45f2-ab77-455d64de9d65</elementGuidId>
+   <elementGuidId>8c32bb52-afc2-4546-9487-cb0038d3f06a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9f466a2f-e3fc-4a05-871d-5894f5e2db37</webElementGuid>
+      <webElementGuid>3d70db03-1098-4f67-99c3-801359877ec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2b27c1a6-0758-4b61-aa7a-50f22d1058cc</webElementGuid>
+      <webElementGuid>924ddd6a-7792-4d32-9a88-3137f7a7b378</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>96ea3667-b8b6-4e16-a1e1-62a9b369f0fe</webElementGuid>
+      <webElementGuid>cc8ff366-1c9f-4744-9aa0-a4d2b4d69f35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>08535286-24e5-4b45-b79a-804624e0ca85</webElementGuid>
+      <webElementGuid>6b85e58d-08bb-47de-8d71-6d392edf598c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>fecefd07-bd1d-4bda-9473-e0775a7e3cbd</webElementGuid>
+      <webElementGuid>6cb6f03d-5017-4ed5-8f71-70c602d27927</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>비밀번호</value>
-      <webElementGuid>163dcafc-85d4-4d9a-9740-858b745a8a6f</webElementGuid>
+      <webElementGuid>38c1e4ec-1d87-48d7-adf3-7a435d42c1c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>b94ed267-a142-4036-94b9-a3b21269713a</webElementGuid>
+      <webElementGuid>0cd85aa9-6738-4622-aeb5-2577ff417b60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd css-mnn31</value>
-      <webElementGuid>10bd6b5e-6ab7-4807-94b2-a8f4e62a6ba0</webElementGuid>
+      <webElementGuid>7ce663ea-3b9e-4081-846c-18db60f7a08f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>value</name>
       <type>Main</type>
       <value>hsignTest001</value>
-      <webElementGuid>58116d77-6242-45c3-b0b3-1f5b1586e46a</webElementGuid>
+      <webElementGuid>1c5b3128-0b9e-4b75-9dff-dc89116d307e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>d3f7ae22-7471-4907-a5f8-af13d434a877</webElementGuid>
+      <webElementGuid>9b6fdc42-f25f-4275-aef2-29e46bf72e6e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>528d0b4c-971a-4f90-bb53-bc21e95fc17e</webElementGuid>
+      <webElementGuid>6afc785e-1913-4c29-9b81-3b05b0419834</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/main/form/div[2]/div/div/input</value>
-      <webElementGuid>6de71015-fc9e-48ed-b980-c3b324fbecde</webElementGuid>
+      <webElementGuid>c0e1f529-76b1-434a-bcd2-ccc779ab069f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>51561a9b-da28-44d9-a160-8a753f4176ce</webElementGuid>
+      <webElementGuid>d235a9e9-ce68-4b1f-86d8-b6a172f1863f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'password' and @name = 'password' and @placeholder = '비밀번호' and @type = 'password']</value>
-      <webElementGuid>92a8aa45-8c8b-4362-97d0-dda9b5b1e4c1</webElementGuid>
+      <webElementGuid>969e8283-9ab6-4a81-b6ed-be24ffc42632</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
