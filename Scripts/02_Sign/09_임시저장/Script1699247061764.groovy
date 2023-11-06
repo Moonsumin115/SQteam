@@ -36,6 +36,8 @@ WebUI.click(findTestObject('Object Repository/Page_/임시저장_로그인버튼
 '알림 공지 닫기'
 WebUI.click(findTestObject('Object Repository/Page_/임시저장_알림공지닫기'))
 
+WebUI.delay(2)
+
 '시작하기 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/임시저장_시작하기'))
 
