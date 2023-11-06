@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>05_문서 편집 및 서명 참여자누락</name>
+   <name>00_문서 편집 및 서명 참여자누락</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a6725f73-a0a1-4261-aa02-5f838ceaf0f2</testCaseGuid>

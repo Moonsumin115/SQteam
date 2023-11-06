@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>09_서명양도</name>
+   <name>06_서명 참여자 입력없이 보내기</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>fb5bd3b9-8234-4d58-80d0-aba328320c87</testCaseGuid>
+   <testCaseGuid>aed58808-a128-4015-86fb-d84676bf9005</testCaseGuid>
 </TestCaseEntity>

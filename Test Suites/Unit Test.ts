@@ -43,35 +43,35 @@
       <guid>7bb0ec4f-0cc6-411b-8aab-21defa93eb20</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02_Sign/06_문서 편집</testCaseId>
+      <testCaseId>Test Cases/02_Sign/05_문서 편집</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3eeed58f-71f7-4b8a-95bc-7426aa896a3a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02_Sign/08_서명 참여자 입력없이 보내기</testCaseId>
+      <testCaseId>Test Cases/02_Sign/06_서명 참여자 입력없이 보내기</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>0b421c5f-257b-438c-a776-8301cbedf02f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02_Sign/09_서명양도</testCaseId>
+      <testCaseId>Test Cases/02_Sign/07_서명양도</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3c4909fa-bd14-43f6-a177-2ce0d968069b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02_Sign/10_서명거부</testCaseId>
+      <testCaseId>Test Cases/02_Sign/08_서명거부</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>6476086c-26d6-4be6-aaa9-982372fd515c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02_Sign/11_임시저장</testCaseId>
+      <testCaseId>Test Cases/02_Sign/09_임시저장</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
