@@ -47,7 +47,7 @@ WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Page_/파일 �
 WebUI.delay(2)
 
 '편집 버튼'
-WebUI.click(findTestObject('Object Repository/Page_/편집 버튼'))
+WebUI.click(findTestObject('Page_/편집 버튼 리소스'))
 
 WebUI.delay(2)
 
