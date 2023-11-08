@@ -36,6 +36,8 @@ WebUI.click(findTestObject('Object Repository/Page_/계정비밀번호 로그인
 '알림 공지 닫기'
 WebUI.click(findTestObject('Object Repository/Page_/알림공지닫기'))
 
+WebUI.delay(2)
+
 '시작하기 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/시작하기'))
 

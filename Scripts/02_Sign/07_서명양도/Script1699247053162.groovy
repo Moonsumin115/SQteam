@@ -36,6 +36,8 @@ WebUI.click(findTestObject('Object Repository/Page_/서명양도_로그인 버�
 '알림 공지 닫기'
 WebUI.click(findTestObject('Object Repository/Page_/서명양도_알림공지닫기'))
 
+WebUI.delay(2)
+
 '시작하기 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/서명양도_시작하기클릭'))
 

@@ -36,6 +36,8 @@ WebUI.click(findTestObject('Object Repository/Page_/내 서명_로그인 실행'
 '알림 공지 닫기'
 WebUI.click(findTestObject('Object Repository/Page_/내 서명_알림 공지 닫기'))
 
+WebUI.delay(2)
+
 '시작하기 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/내 서명_시작하기 클릭'))
 

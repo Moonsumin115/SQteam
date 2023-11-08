@@ -46,6 +46,8 @@ WebUI.navigateToUrl('https://my.stg.hancomsign.com/tasks')
 '프로필 아이콘 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/프로필 아이콘'))
 
+WebUI.delay(2)
+
 '로그아웃 클릭'
 WebUI.click(findTestObject('Object Repository/Page_/로그아웃 버튼'))
 
