@@ -44,7 +44,7 @@ WebUI.click(findTestObject('Object Repository/Page_/시작하기'))
 '파일 선택 버튼'
 WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Page_/파일 선택'), 'C:\\download\\sample_pdf.pdf')
 
-WebUI.delay(2)
+WebUI.delay(5)
 
 '편집 버튼'
 WebUI.click(findTestObject('Page_/편집 버튼 리소스'))
